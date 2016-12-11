@@ -1,0 +1,241 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1"><title>
+	历史数据查询(小时)
+</title><link href="../css/default.css" rel="stylesheet" /><link href="../css/word.css" rel="stylesheet" />
+
+    <script type="text/javascript" src="../js/jquery.js"></script>
+
+    <script type="text/javascript">        jQuery.noConflict();</script>
+
+    <script type="text/javascript" src="../js/Utility.js"></script>
+
+    <script type="text/javascript" src="../js/loadingPop.js"></script>
+
+    <script type="text/javascript" src="../js/PopupExtender.js"></script>
+
+    <script type="text/javascript" src="../js/CtrlMuilt.js"></script>
+
+    <script type="text/javascript" src="../js/SearchPanel.js"></script>
+
+    <script type="text/javascript" src="../js/FixTable.js"></script>
+
+</head>
+<body>
+
+    <script type="text/javascript" src="../js/WebCalendar.js"></script>
+
+    <form method="post" action="HistoryDataList.aspx" id="form1">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__LASTFOCUS" id="__LASTFOCUS" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTE3MDE1ODI3MjEPFgIeC3dtX2NoYW5uZWxzMpwZAAEAAAD/////AQAAAAAAAAAMAgAAAE9TZW50ZWNoLkF0bW9zcGhlcmUuTW9kZWwsIFZlcnNpb249MS4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1udWxsBAEAAACZAVN5c3RlbS5Db2xsZWN0aW9ucy5HZW5lcmljLkxpc3RgMVtbU2VudGVjaC5BdG1vc3BoZXJlLk1vZGVsLndtX2NoYW5uZWwsIFNlbnRlY2guQXRtb3NwaGVyZS5Nb2RlbCwgVmVyc2lvbj0xLjAuMC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPW51bGxdXQMAAAAGX2l0ZW1zBV9zaXplCF92ZXJzaW9uBAAAJVNlbnRlY2guQXRtb3NwaGVyZS5Nb2RlbC53bV9jaGFubmVsW10CAAAACAgJAwAAAA4AAAAOAAAABwMAAAAAAQAAABAAAAAEI1NlbnRlY2guQXRtb3NwaGVyZS5Nb2RlbC53bV9jaGFubmVsAgAAAAkEAAAACQUAAAAJBgAAAAkHAAAACQgAAAAJCQAAAAkKAAAACQsAAAAJDAAAAAkNAAAACQ4AAAAJDwAAAAkQAAAACREAAAANAgUEAAAAI1NlbnRlY2guQXRtb3NwaGVyZS5Nb2RlbC53bV9jaGFubmVsGgAAAAtfc3RhdGlvbl9pZAtfY2hhbm5lbF9pZA1fY2hhbm5lbF9uYW1lDl9jaGFubmVsX2FicmV2Cl9kYXRhX3VuaXQSX2F1ZGl0X1VwcGVyX3ZhbHVlEl9hdWRpdF9Mb3dlcl92YWx1ZQlfZXF1YXRpb24TX2RpZ2l0X2RvdF9wb3NpdGlvbgtfc2hvd2NvbHVtbgxfaXNhdXRvYXVkaXQEX2ZpZAtfYWN0aW9udHlwZQhfdmFsdWVJRB08aGlnaGVyX3ZhbHVlPmtfX0JhY2tpbmdGaWVsZBw8bG93ZXJfdmFsdWU+a19fQmFja2luZ0ZpZWxkHTxpbnZhbGlkX2hpZ2g+a19fQmFja2luZ0ZpZWxkHDxpbnZhbGlkX2xvdz5rX19CYWNraW5nRmllbGQgPEZpcnN0QWxhcm1VcHBlcj5rX19CYWNraW5nRmllbGQgPEZpcnN0QWxhcm1Mb3dlcj5rX19CYWNraW5nRmllbGQhPFNlY29uZEFsYXJtVXBwZXI+a19fQmFja2luZ0ZpZWxkITxTZWNvbmRBbGFybUxvd2VyPmtfX0JhY2tpbmdGaWVsZBg8aXNhbGFybT5rX19CYWNraW5nRmllbGQbPEFsYXJtVXBwZXI+a19fQmFja2luZ0ZpZWxkGzxBbGFybUxvd2VyPmtfX0JhY2tpbmdGaWVsZBw8Q2hhbm5lbFR5cGU+a19fQmFja2luZ0ZpZWxkAAABAQEAAAEBAAAAAQADAwMDAwMDAwAAAAQICAUFAQEJCA5TeXN0ZW0uRGVjaW1hbA5TeXN0ZW0uRGVjaW1hbA5TeXN0ZW0uRGVjaW1hbA5TeXN0ZW0uRGVjaW1hbA5TeXN0ZW0uRGVjaW1hbA5TeXN0ZW0uRGVjaW1hbHBTeXN0ZW0uTnVsbGFibGVgMVtbU3lzdGVtLkRlY2ltYWwsIG1zY29ybGliLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OV1dcFN5c3RlbS5OdWxsYWJsZWAxW1tTeXN0ZW0uRGVjaW1hbCwgbXNjb3JsaWIsIFZlcnNpb249NC4wLjAuMCwgQ3VsdHVyZT1uZXV0cmFsLCBQdWJsaWNLZXlUb2tlbj1iNzdhNWM1NjE5MzRlMDg5XV0BBQUkU2VudGVjaC5BdG1vc3BoZXJlLk1vZGVsLkNoYW5uZWxUeXBlAgAAAAIAAAAqAwAAAQAAAAYSAAAAA1NPMgYTAAAAA1NPMgYUAAAABXVnL20zATABMAYVAAAAAAYWAAAAATMBADEJAAAAAAAACRUAAAABAAAACAUDMC41CAUBMAgFAzIuMQgFBi0wLjAwOQgFAzAuNggFBi0wLjAwOQoKAQEwATAF6P///yRTZW50ZWNoLkF0bW9zcGhlcmUuTW9kZWwuQ2hhbm5lbFR5cGUBAAAAB3ZhbHVlX18ACAIAAAABAAAAAQUAAAAEAAAAKgMAAAQAAAAGGQAAAAJOTwYaAAAAAk5PBhsAAAAFdWcvbTMBMAEwCRUAAAAGHQAAAAEzAQAzCQAAAAAAAAkVAAAABAAAAAgFBDAuMTIIBQUwLjAwMQgFATEIBQUwLjAwMQoKCgoAATABMAHh////6P///wEAAAABBgAAAAQAAAAqAwAABQAAAAYgAAAAA05PMgYhAAAAA05PMgYiAAAABXVnL20zATABMAkVAAAABiQAAAABMwEANAkAAAAAAAAJFQAAAAUAAAAIBQMwLjIIBQEwCAUEMC43NQgFBi0wLjAwNggFAzAuNQgFBi0wLjAwNgoKAQEwATAB2v///+j///8BAAAAAQcAAAAEAAAAKgMAAAYAAAAGJwAAAANOT3gGKAAAAANOT3gGKQAAAAV1Zy9tMwEwATAJFQAAAAYrAAAAATMBAEYMAAAAAAAACRUAAAAGAAAACAUBMQgFBTAuMDAxCAUBMggFBTAuMDAxCgoKCgABMAEwAdP////o////AQAAAAEIAAAABAAAACoDAAACAAAABi4AAAAEUE0xMAYvAAAABFBNMTAGMAAAAAV1Zy9tMwEwATAJFQAAAAYyAAAAATMBADUJAAAAAAAACRUAAAACAAAACAUEMC4xNQgFATAIBQEzCAUBMAgFATEIBQEwCgoBATABMAHM////6P///wEAAAABCQAAAAQAAAAqAwAADgAAAAY1AAAABVBNMi41BjYAAAAFUE0yLjUGNwAAAAV1Zy9tMwEwATAJFQAAAAY5AAAAATMBAGMNAAAAAAAACRUAAAAOAAAACAUEMC43NQgFATAIBQEzCAUBMAgFBDAuNzUIBQEwCgoBATABMAHF////6P///wEAAAABCgAAAAQAAAAqAwAADQAAAAY8AAAABuiHreawpwY9AAAAAk8zBj4AAAAFdWcvbTMBMAEwCRUAAAAGQAAAAAEzAQBiDQAAAAAAAAkVAAAADQAAAAgFAzAuMggFATAIBQExCAUGLTAuMDA2CAUDMC40CAUGLTAuMDA2CgoBATABMAG+////6P///wEAAAABCwAAAAQAAAAqAwAADAAAAAZDAAAAAkNPBkQAAAACQ08GRQAAAAVtZy9tMwEwATAJFQAAAAZHAAAAATMBAGENAAAAAAAACRUAAAAMAAAACAUCMTAIBQEwCAUBNQgFATAIBQIxMAgFATAKCgEBMAEwAbf////o////AQAAAAEMAAAABAAAACoDAAAHAAAABkoAAAAG6aOO6YCfBksAAAACV1MGTAAAAANtL3MBMAEwCRUAAAAJFQAAAAAAswwAAAAAAAAJFQAAAAcAAAAKCgoKCgoKCgABMAEwAbL////o////AQAAAAENAAAABAAAACoDAAAIAAAABk8AAAAG6aOO5ZCRBlAAAAACV0QGUQAAAANkZWcBMAEwCRUAAAAJFQAAAAAAtAwAAAAAAAAJFQAAAAgAAAAKCgoKCgoKCgABMAEwAa3////o////AQAAAAEOAAAABAAAACoDAAAKAAAABlQAAAAG5rm/5bqmBlUAAAACUkgGVgAAAAElATABMAkVAAAACRUAAAAAALYMAAAAAAAACRUAAAAKAAAACgoKCgoKCgoAATABMAGo////6P///wEAAAABDwAAAAQAAAAqAwAAAwAAAAZZAAAABuWupOa4qQZaAAAAAVQGWwAAAAPihIMBMAEwCRUAAAAGXQAAAAExAABFDAAAAAAAAAkVAAAAAwAAAAgFAzEwMAgFATAIBQMxMDAIBQEwCgoKCgABMAEwAaH////o////AQAAAAEQAAAABAAAACoDAAALAAAABmAAAAAJ5aSn5rCU5Y6LBmEAAAACQlAGYgAAAANoUGEBMAEwCRUAAAAGZAAAAAExAAC3DAAAAAAAAAkVAAAACwAAAAoKCgoKCgoKAAEwATABmv///+j///8BAAAAAREAAAAEAAAAKgMAAAkAAAAGZwAAAAbmsJTmuKkGaAAAAAR0ZW1wBmkAAAAD4oSDATABMAkVAAAACRUAAAAAALUMAAAAAAAACRUAAAAJAAAACgoKCgoKCgoAATABMAGV////6P///wEAAAALFgICAw9kFgQCAw8WAh4EVGV4dAUY6L+e5LqR5riv6IOh5rKf566h55CG5aSEZAIFD2QWAmYPZBYIAgMPD2QWAh4IcmVhZG9ubHkFCHJlYWRvbmx5ZAIFDw9kFgIfAgUIcmVhZG9ubHlkAgcPEGQPFg5mAgECAgIDAgQCBQIGAgcCCAIJAgoCCwIMAg0WDhAFA1NPMgUBMWcQBQJOTwUBNGcQBQNOTzIFATVnEAUDTk94BQE2ZxAFBFBNMTAFATJnEAUFUE0yLjUFAjE0ZxAFBuiHreawpwUCMTNnEAUCQ08FAjEyZxAFBumjjumAnwUBN2cQBQbpo47lkJEFAThnEAUG5rm/5bqmBQIxMGcQBQblrqTmuKkFATNnEAUJ5aSn5rCU5Y6LBQIxMWcQBQbmsJTmuKkFATlnZGQCEQ9kFgJmD2QWBAIBDxBkZBYBAgJkAgMPDxYCHghQYWdlU2l6ZQIUZGQYAQUeX19Db250cm9sc1JlcXVpcmVQb3N0QmFja0tleV9fFg8FEGNibENoYW5uZWxMaXN0JDAFEGNibENoYW5uZWxMaXN0JDEFEGNibENoYW5uZWxMaXN0JDIFEGNibENoYW5uZWxMaXN0JDMFEGNibENoYW5uZWxMaXN0JDQFEGNibENoYW5uZWxMaXN0JDUFEGNibENoYW5uZWxMaXN0JDYFEGNibENoYW5uZWxMaXN0JDcFEGNibENoYW5uZWxMaXN0JDgFEGNibENoYW5uZWxMaXN0JDkFEWNibENoYW5uZWxMaXN0JDEwBRFjYmxDaGFubmVsTGlzdCQxMQURY2JsQ2hhbm5lbExpc3QkMTIFEWNibENoYW5uZWxMaXN0JDEzBRFjYmxDaGFubmVsTGlzdCQxM0N42OBSdPxLG3lqTUTu5ZcHQgMjiNiOoAn+egNKv9EM" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/Atmosphere/WebResource.axd?d=WS3K4u7rEzB3i2ZSyRNE_Vwc031rJvNaHpkdIJKRoGEUZi1E7-YMUYB3VLJXDaEYqPZTI1oIz6pid4HzXOvsfjq3Sszzmy3hDjhx-cmrc4Q1&amp;t=636077262327656250" type="text/javascript"></script>
+
+
+<script src="/Atmosphere/ScriptResource.axd?d=Sw-JaIjy5slX1bOb9K2P83fTnOpTqX_iGPkCrJ681mDQ52tmV9RWG_9lYO8Xz8KKaitHnd3N8udtN7coHAJyao2iEkcfTawJ0mvuT8GQPe7fjA2OQgVbWREc4Q-3ECw2_wXySk4R_kNQzN72Y_ftIQv0ChJzJuS2n9TBDHEj-6EehIXPvAFPWI4qIRikWobj0&amp;t=5854e822" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(Sys) === 'undefined') throw new Error('ASP.NET Ajax 客户端框架未能加载。');
+//]]>
+</script>
+
+<script src="/Atmosphere/ScriptResource.axd?d=gxKS6Fh1QvKYHg74aZ_nRnxud5bEn6u1ilSV9LXjUKSh_L06ilgHWwCF7QkdAyY4w9-Q6EGUSW-Vc22JMUAjeQBK0kjAH1piyig0NScZnbv0DJJkWGEhD3FuKKcBpDBZUN0Km0qW8hbiNIx4gkYkC56HLe8xDddjDMMZrDV3-otnarBcFKolz34EjSDmg1Yk0&amp;t=5854e822" type="text/javascript"></script>
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="4F04B47C" />
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWIwL7ycf4AwKdsqCGCQKJ86TVBALQ+v/BCgKCudnMCQKCucVxAoK5gYMLAoK57acCAoK5ieAGAoK59YQOAoK5sZYIAoK5nbsPAoK5+aUPAoK55coGAv7F8esOAv3F8esOAvzF8esOAvvF8esOAoOeoZYFArTKkYQIAubHncAIAsqh3NgGAsKL2t4DAvzyo5QGAvOdyfkKAvOd9fkKAvKdyfkKAvGdyfkKAvCdyfkKAvedyfkKAvadyfkKAvWdyfkKAuSdyfkKAuudyfkKAtXcrq4NmmloW3PsCKUNxr2W2ivj1a/S4pTg4/g2u5F6hRergMA=" />
+</div>
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ScriptManager1', 'form1', ['tUpdatePanel1','UpdatePanel1'], [], [], 90, '');
+//]]>
+</script>
+
+
+    <script type="text/javascript">
+        if (parent != self) {
+            $p("tdleft").style.display = "";
+            if ($p("middle").src.toLowerCase().indexOf("left") == -1)
+            { $p("middle").src = "left.aspx"; } 
+          }
+
+        Sys.WebForms.PageRequestManager.getInstance().add_initializeRequest(InitializeRequestHandler);
+
+        function InitializeRequestHandler(sender, args) {
+            var date1 = Date.convert($("start_time").value);
+            var date2 = Date.convert($("end_time").value);
+            if (date1 > date2) {
+                args.set_cancel(true); //取消执行
+                Pop.confirm("开始时间不能大于结束时间。");
+                return;
+            }
+
+            if (Date.dateDiff("d", date1, date2) > 93) {
+                args.set_cancel(true); //取消执行
+                Pop.confirm("时间范围不能超过三个月。");
+                return;
+            }
+
+            var count = GetCheckedCount("cblChannelList");
+            if (count == -1) {
+                args.set_cancel(true); //取消执行
+                Pop.confirm("尚未配置监测项。");
+                return;
+            }
+
+            if (count == 0) {
+                args.set_cancel(true); //取消执行
+                Pop.confirm("请至少选择一个监测项。");
+                return;
+            }
+        }
+
+        var postBackElement;
+        function BeginRequestHandler(sender, args) {
+            postBackElement = args.get_postBackElement();
+            LoadingPop.show();
+        }
+
+        function EndRequestHandler(sender, args) {
+            LoadingPop.hide();
+            if (args.get_error()) {
+                args.set_errorHandled(true);
+                alert(args.get_error().message);
+            }
+
+            jQuery("table.fixtable").each(function(index) { FixTable(this); });
+            if (postBackElement.id === "btn_Ctrl") 
+                send(); 
+        }
+
+    </script>
+
+    <div class="base">
+        <div class="header">
+            
+            <span class="title">历史数据查询(小时)&nbsp;-&nbsp;连云港胡沟管理处</span><span
+                class="desc"><span id="span_ctrl"><a href="javascript:ToPreview();" title="打印预览">打印预览</a>&nbsp;|&nbsp;<a
+                    href="javascript:ToPrint();" title="直接打印">打印</a>&nbsp;|&nbsp;<a href="javascript:ToWord();"
+                        title="导出到Word">ToWord</a>&nbsp;|&nbsp;<a href="javascript:ToExcel();" title="导出到Excel">ToExcel</a></span></span><span
+                            class="clear"></span></div>
+                             
+        <div id="UpdatePanel1">
+	
+               <input type="hidden" name="hid_Ctrl" id="hid_Ctrl" />
+               
+                
+                 <input id="btn_Ctrl" onclick="send();" type="button" style="display: none" />
+                <table width="100%">
+                    <tr>
+                        <td>
+                            <a href="javascript:;" onclick="btnSearchUIControlClick(null);" id="btnSearchUIControl">
+                                展开搜索界面</a>
+                        </td>
+                        <td style="text-align: right">
+                            说明：<span style="color: blue;">蓝色</span>所示为超标数据，<span style="color: red;">红色</span>所示为无效数据。
+                        </td>
+                    </tr>
+                </table>
+                <div class="div_search">
+                    <table class="insertOrEidt">
+                        <tr>
+                            <th>
+                                时间范围：
+                            </th>
+                            <td>
+                                <input name="start_time" type="text" value="2016-12-05" id="start_time" onfocus="calendar.show(this);" readonly="readonly" />&nbsp;-&nbsp;<input name="end_time" type="text" value="2016-12-12" id="end_time" onfocus="calendar.show(this);" readonly="readonly" />
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>
+                                监测项：
+                            </th>
+                            <td>
+                                <span id="cblChannelList"><input id="cblChannelList_0" type="checkbox" name="cblChannelList$0" checked="checked" value="1" /><label for="cblChannelList_0">SO2</label><input id="cblChannelList_1" type="checkbox" name="cblChannelList$1" checked="checked" value="4" /><label for="cblChannelList_1">NO</label><input id="cblChannelList_2" type="checkbox" name="cblChannelList$2" checked="checked" value="5" /><label for="cblChannelList_2">NO2</label><input id="cblChannelList_3" type="checkbox" name="cblChannelList$3" checked="checked" value="6" /><label for="cblChannelList_3">NOx</label><input id="cblChannelList_4" type="checkbox" name="cblChannelList$4" checked="checked" value="2" /><label for="cblChannelList_4">PM10</label><input id="cblChannelList_5" type="checkbox" name="cblChannelList$5" checked="checked" value="14" /><label for="cblChannelList_5">PM2.5</label><input id="cblChannelList_6" type="checkbox" name="cblChannelList$6" checked="checked" value="13" /><label for="cblChannelList_6">臭氧</label><input id="cblChannelList_7" type="checkbox" name="cblChannelList$7" checked="checked" value="12" /><label for="cblChannelList_7">CO</label><input id="cblChannelList_8" type="checkbox" name="cblChannelList$8" value="7" /><label for="cblChannelList_8">风速</label><input id="cblChannelList_9" type="checkbox" name="cblChannelList$9" value="8" /><label for="cblChannelList_9">风向</label><input id="cblChannelList_10" type="checkbox" name="cblChannelList$10" value="10" /><label for="cblChannelList_10">湿度</label><input id="cblChannelList_11" type="checkbox" name="cblChannelList$11" value="3" /><label for="cblChannelList_11">室温</label><input id="cblChannelList_12" type="checkbox" name="cblChannelList$12" value="11" /><label for="cblChannelList_12">大气压</label><input id="cblChannelList_13" type="checkbox" name="cblChannelList$13" value="9" /><label for="cblChannelList_13">气温</label></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>
+                                显示选项：
+                            </th>
+                            <td>
+                                <input type="hidden" name="hidPageSize" id="hidPageSize" />
+                                <span id="radioIsPage"><input id="radioIsPage_0" type="radio" name="radioIsPage" value="分页显示" checked="checked" /><label for="radioIsPage_0">分页显示</label><input id="radioIsPage_1" type="radio" name="radioIsPage" value="全部显示" /><label for="radioIsPage_1">全部显示</label></span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>
+                            </th>
+                            <td>
+                                <input type="submit" name="btnSubmit" value="查询" id="btnSubmit" class="but" />
+                                <input id="btnCancel" onclick="btnCancelClick();" type="button" class="but" value="取消" />
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+                <div class="tbodyContainer">
+                    <div class="tbody">
+                        <div id="div_print">
+                            </div>
+                    </div>
+                </div>
+                
+<table width="100%">
+    <tr>
+        <td valign="bottom" style="width:100px">
+            <select name="AspNetPager1$DropDownList1" onchange="javascript:setTimeout(&#39;__doPostBack(\&#39;AspNetPager1$DropDownList1\&#39;,\&#39;\&#39;)&#39;, 0)" id="AspNetPager1_DropDownList1">
+		<option value="10">10</option>
+		<option value="15">15</option>
+		<option selected="selected" value="20">20</option>
+		<option value="30">30</option>
+		<option value="40">40</option>
+		<option value="50">50</option>
+		<option value="60">60</option>
+		<option value="70">70</option>
+		<option value="80">80</option>
+		<option value="90">90</option>
+		<option value="100">100</option>
+
+	</select>
+            条/页
+        </td>
+        <td>
+            <div id="AspNetPager1_AspNetPager1" style="text-align:right;">
+		<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			<tr>
+				<td valign="bottom" align="left" nowrap="true" style="width:40%;">共<span class='red12'>0</span>条 页码:<span class='red12'>1</span>/1</td><td valign="bottom" align="right" nowrap="true" class="" style="width:60%;"><a disabled="true" style="margin-right:6px;">首页</a><a disabled="true" style="margin-right:6px;">上一页</a><span style="margin-right:6px;font-weight:Bold;color:red;">[1]</span><a disabled="true" style="margin-right:6px;">下一页</a><a disabled="true" style="margin-right:6px;">尾页</a>&nbsp;&nbsp;<input type="text" value="1" readonly="true" name="AspNetPager1$AspNetPager1_input" id="AspNetPager1$AspNetPager1_input" onkeydown="ANP_keydown(event,&#39;AspNetPager1$AspNetPager1_btn&#39;);" style="width:30px;" /><input type="Submit" name="AspNetPager1$AspNetPager1" id="AspNetPager1$AspNetPager1_btn" value="go" class="but" disabled="true" onclick="return ANP_checkInput(&#39;AspNetPager1$AspNetPager1_input&#39;,1)" /></td>
+			</tr>
+		</table>
+	</div>
+        </td>
+    </tr>
+</table>
+
+            
+</div>
+    </div>
+    </form>
+</body>
+</html>
