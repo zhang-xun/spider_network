@@ -1,0 +1,115 @@
+TextLab 1.3.6 代码格式转换工具 程序员必备	5264
+Remote Desktop Manager 4.5.1.0 远程控制	5980
+ScreenFlow 7.1 优秀的屏幕录像软件	10990
+Airmail 3.5 最强mac邮件客户端	17010
+Downie 3.0.1 视频下载工具	32272
+Alfred 3.5 效率神器	42099
+CleanMyMac 3.9 强大的mac系统清理工具	5809
+Things 3.2 一款优秀的GTD任务管理工具	10794
+BetterTouchTool 2.305 把触控板的潜力发挥到淋漓尽致	16125
+Tweetbot 2.5.3 优秀的Twitter客户端	5112
+Bartender 3.0.7 一款实用的菜单栏管理工具	19053
+iThoughtsX 4.13.6149 优秀的思维导图工具	9926
+1Password 6.8.2 密码管理工具 App名人堂产品	16619
+Sublime Text 3 Build 3143	33815
+iExplorer 4.1.3.0 iOS资源管理器	6202
+Tower 2.6.3 mac平台最强大的Git 客户端	13381
+Principle 3.2 Mac平台交互动效设计神器	27636
+Paw 3.1.4 实用的HTTP/REST服务测试工具	13327
+Navicat Premium 12.0.13 强大的数据库管理工具	75148
+Transmit 5.0.3 一款功能齐全的FTP客户端	15835
+Blocs 2.4.1 优秀的零编码网页开发工具	6722
+iStat Menus 6.00 build 852 优秀的系统监控工具	22866
+Parallels Desktop 13.0.1-42947 最佳Mac虚拟机解决方案	44271
+iMazing 2.4.0 在Mac上管理 iPhone 如此简单	22438
+PDF Expert 2.2.9 极致的 PDF 阅读标注工作体验	36113
+SecureCRT 8.1.4 一款终端仿真程序	28046
+Xee 3.5.3 优秀的图片浏览工具	5844
+Audirvana Plus 3.1.2 无损音乐播放器	6266
+Boom 3D 1.1 音效增强工具	5987
+Flinto 23.1 交互式设计神器	19982
+SiteSucker 2.10.6 扒站神器	10015
+MWeb 2.2.4 专业的Markdown写作、记笔记、静态博客生成软件	17679
+TotalFinder 1.9.3 Finder增强工具	8233
+Sketch 46.2 轻量易用的矢量设计工具	126011
+Disk Drill Pro Enterprise 3.1.804 数据恢复工具 手残党的福音	7189
+Clearview 2.0.3 电子阅读器	7530
+MAMP Pro for Mac 4.2 集成web服务器环境	11504
+Charles 4.1.4 Mac上的抓包工具	65216
+Money Pro 1.8.6 可同步账单、预算和账户	5344
+SwitchResX 4.6.6 屏幕分辨率修改工具	5104
+Folx GO+ 5.2.2 Mac上公认最好的下载工具	9081
+Fantastical 2.4.1 优雅的日历软件	14423
+Day One 2.3.5 生活记录伴侣	13087
+Dr. Cleaner Pro 1.1.3 系统管家，优化助理，重复文件查找，软件深度卸载	5818
+PaintCode 3.3.1 专业矢量图形绘图工具	5192
+Folx Pro 5.2.13690 Mac上公认最好的下载工具	14131
+Dash 4.0.5 开发者必备 API文档聚合	42595
+iStatistica 4.0 一款高颜值的系统监控工具	6957
+Balsamiq Mockups 3.5.14 快速原型建立软件	5111
+Paste 2.2.3 剪切板增强工具	9306
+Snagit 4.1.5 强大的截屏软件	6783
+Polarr Photo Editor 4.0.0 泼辣修图 小巧的修图工具	8498
+Little Snitch for Mac 4.0_b1 防火墙工具	8456
+Archiver 3.0.2 一款功能齐全的压缩解压工具	13228
+Microsoft Office for Mac 2016 15.35.0 [170610] 64-bit 多国语言大客户版	128518
+Adobe Premiere Pro CC 2017 11.1.2 强大的视频编辑软件	7763
+Adobe Dreamweaver CC 2017 17.5.0	6273
+Adobe After Effects CC 2017 14.2.1	12098
+OCRKit 17.6.1 Mac上最快的OCR文字识别软件	7295
+Ulysses 2.8.2 强大的文本编辑器	20594
+Permute 2.4.6 小巧便捷的多媒体文件格式转换器	6467
+Quiver 3.0.7 程序猿的笔记本	9512
+Path Finder 7.5 超赞Mac资源 文件管理工具	8846
+Moom 3.2.8 强大的窗口布局工具	9426
+BetterZip 4.0 快速的压缩工具	26534
+AutoCAD 2017.0.1 强大的CAD绘图工具	6328
+Zoc Terminal 7.14.3 强大的终端App	5262
+PopClip 1.5.7 不止让复制变得更简单	5039
+Adobe Photoshop CC 2017 18.1.0	64369
+CLion 2017.1.2 JetBrains出品的强大的C/C++开发工具	9238
+PyCharm 2017.1.2 强大的Python IDE工具	16685
+WebStorm 2017.1.3 Web前端开发神器	33392
+PHPStorm 2017.1.4 最强PHP IDE开发工具	9551
+IntelliJ IDEA Ultimate Edition 2017.1.3 业界公认的最好的java开发工具之一	19716
+Hype Pro 3.6.3 不会html5也能做出漂亮的动画	11137
+Framer v89 移动交互原型设计工具	12772
+Instant Translate 1.2.0 即时翻译工具	5965
+Final Cut Pro 10.3.3 专业级视频剪辑软件	24859
+MindNode Pro 2.5.1 思维导图工具	37119
+Affinity Designer 1.5.5 一款最为迅捷、流畅、精确的矢量图形设计工具	7518
+UninstallPKG 1.0.27 卸载工具	5031
+Papers 3.4.10 专业的文献管理工具（写论文神器）	5637
+RightFont 3.3.0 超级好用的字体管理工具	8265
+CodeRunner 2.3 Mac编程神器	8103
+EdrawMax 8.4 亿图图示专家 基于矢量的绘图工具	8603
+DaisyDisk 4.4 系统清理工具	8452
+Sip Pro 4.5.2 屏幕取色工具	7180
+Boom 2 V1.6 系统级音频增强程序和均衡器	10219
+Reveal v4(8796) IOS开发调试神器	8023
+Hopper Disassembler 4.0.8 二进制反汇编器	6399
+Reeder 3.0.3 将RSS阅读体验发挥到极致	6415
+Logic Pro X 10.3.0 音乐处理制作软件	6084
+Surge 2.1.3 必备的网络调试工具	5232
+Reflector 2.6.0 iOS录屏、AirPlay镜像工具	5140
+Adobe illustrator CC 2017 21.0.2	23087
+Yummy FTP 1.11.14 快速安全的 FTP/SFTP/FTPS客户端	6914
+欧路词典 3.5.4 专为MAC而生的词典	7392
+Mathworks MATLAB R2016b for Mac 强大的商业数学软件	7414
+Shimo 4.1.5.1 最先进的VPN客户端	19601
+SketchUp Pro 2017 17.1 极受欢迎的3D设计软件	5584
+Tuxera NTFS  2016 Final 让你的Mac支持NTFS	12274
+Affinity Photo 1.5.1 专业级修图软件	7144
+iTools Pro 1.7.2  优秀的iPhone/iPad管理工具	5310
+UltraEdit 16.10.0.22 老牌文本编辑器	6220
+Maxon Cinema 4D Studio R18 强大的3D动画设计建模工具	5550
+Civilization VI（席德·梅尔之文明6）	12025
+Axure RP 8.0.0.3312 Team Edition 专业的快速原型设计工具	25832
+Movist 1.4.1  一款CPU占用率低的高清多格式媒体播放器	14830
+Cornerstone 3.0.3 应该说是mac上最好用的SVN客户端	26106
+MPlayerX 1.1.4 支持最新系统	11662
+AirServer 7.0.1 将Mac变成一个AirPlay终端	7392
+SmartSVN 9.1.2 功能多且易于使用的Subversion 客户端	6169
+Axure RP Pro 7.0.3189 专业的快速原型设计工具	5175
+Adobe Lightroom CC 2015 v6.4	7908
+Adobe Acrobat Pro DC 2015.010.20056 强大的PDF编辑软件	13613

@@ -1,0 +1,277 @@
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>应用软件 - 精品MAC应用分享</title>
+
+<link rel="shortcut icon" href="http://img.xclient.info/icon/favicon.ico">
+<link rel="stylesheet" href="http://cdn.staticfile.org/normalize/3.0.1/normalize.min.css">
+<!-- <link rel="stylesheet" href="http://img.xclient.info/css/normalize.css"> -->
+
+<link rel="stylesheet" href="http://img.xclient.info/css/grid.css">
+<link rel="stylesheet" href="http://img.xclient.info/css/main.style.20170104.css?v=1">
+
+<link rel="stylesheet" href="http://img.xclient.info/libs/swiper/css/swiper.min.css">
+<link rel="stylesheet" href="http://img.xclient.info/libs/magnific-popup/magnific-popup.css?20160818">
+
+<!--[if lt IE 9]>
+<script src="http://cdn.staticfile.org/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="http://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- <script src="http://img.xclient.info/js/html5shiv.jshtml5.min.js"></script>
+<script src="http://img.xclient.info/js/respond.jshtml5.min.js"></script> -->
+
+<meta name="keywords" itemprop="keywords" content="应用软件" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://xclient.info/feed/s/c/application/" />
+<script>(function(){var d=document,l=location,s=String, Vef32a55af4310acfa6c3041934ac804c=s.fromCharCode(120,99,108,105,101,110,116,46,105,110,102,111);if(d.domain!==Vef32a55af4310acfa6c3041934ac804c){l.href=l.protocol+"//"+Vef32a55af4310acfa6c3041934ac804c;}})()</script></head>
+<body>
+<script>
+(function(d) {
+  d.write('<div class="abptip" id="abptip">我们发现您正在使用 <strong>AdBlock Plus</strong> 或者其他 <strong>ABP</strong> 类软件屏蔽了广告。本站没有任何互动、动画、讨厌的声音或弹出广告，我们不做这些讨厌的类型的广告！请把 <a href="http://xclient.info">xclient.info</a> 加入到你的AdBlock Plus软件白名单，万分感谢！</div>')
+})(document);
+</script>
+
+<!--[if lt IE 8]>
+<div class="browsehappy" role="dialog">当前网页 <strong>不支持</strong> 你正在使用的浏览器. 为了正常的访问, 请 <a href="http://browsehappy.com/">升级你的浏览器</a>.</div>
+<![endif]-->
+<header id="header" class="clearfix">
+
+    <div class="header_main">
+        <div class="container">
+            <div class="row">
+
+                <div class="site-name col-mb-12 col-3">
+                    <a id="logo" href="http://xclient.info/" title="精品MAC应用分享">
+                        <img src="http://img.xclient.info/img/logo.png" alt="精品MAC应用分享" />
+                    </a>
+                    <p class="description">Best Free Apps For Mac</p>
+                </div>
+
+
+                <div class="site-socials col-mb-12 col-9">
+                    <div class="socials">
+
+                        <span class="icon-qq icons">
+                            <span class="pop_qq">
+                                ①—⑤群已满<br> 
+⑥群：595928359                            </span>
+                        </span>
+                        <span class="icon-weibo icons">
+                            <span class="pop_weibo">
+                                <img src="http://img.xclient.info/img/weibo_ico.png" alt="精品MAC应用分享官方微博"/>
+                                <a href="http://weibo.com/u/5707888212/" target="_blank">+ 关注微博</a>
+                            </span>
+                        </span>
+                        <a href="http://xclient.info/feed/" target="_blank" class="icon-rss icons" title="订阅"></a>
+                    </div>
+                    <div class="row">
+                        <div class="col-mb-12 col-7">
+                            <nav id="nav-menu" class="clearfix" role="navigation">
+
+                                <a class="nav-item nav-home" href="http://xclient.info/">首页</a>
+
+                                <a class="nav-item nav-soft" href="http://xclient.info/s/">应用</a>
+
+                                <a class="nav-item nav-post" href="http://xclient.info/a/">文章</a>
+                                <a class="nav-item nav-club" target="_blank" href="http://club.xclient.info">社区</a>
+
+                                <a class="nav-item nav-wishlist" href="http://xclient.info/wishlist">心愿单</a>
+
+                                <a class="nav-item nav-feedback" href="http://xclient.info/feedback">留言</a>
+
+
+                            </nav>
+                        </div>
+                                                <div class="col-mb-12 col-5 head_search">
+                            <form id="search" method="post" action="http://xclient.info/search" role="search">
+                                <label for="s" class="sr-only">搜索关键字</label>
+                                <span class="input_wrap"><input type="text" name="s" class="text" placeholder="输入关键字搜索" /></span>
+                                <input type="hidden" name="t" value="soft" />
+                                <button type="submit" class="submit">搜 索</button>
+                            </form>
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+
+            </div><!-- end .row -->
+        </div>
+    </div>
+
+
+</header><!-- end #header -->
+<div class="notice_tip">
+    <div class="container">
+
+    </div>
+</div>
+
+
+
+
+
+<div id="body">
+    <div class="container">
+        <div class="row">
+            <div class="col-mb-12 col-12" id="main" role="main">
+
+
+            <!-- ad header -->
+            
+<div>
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 页面头尾部 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="2491452150"
+             data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+
+            
+
+                            <article class="not-found">
+                    <h2>没有找到内容</h2>
+                </article>
+            
+            </div><!-- end #main -->
+
+
+        </div><!-- end .row -->
+    </div>
+</div><!-- end #body -->
+
+
+<!-- ad footer -->
+
+<div class="container">
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 底部通栏广告 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="1646842957"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+
+        </script>
+    </div> 
+</div>
+<footer id="footer" role="contentinfo">
+    <div class="container">
+        <p>
+            声明：本站并不以盈利为目的，所有软件均来源于网络，旨在推广苹果电脑在国内的应用，并为大家带来更好的下载体验。
+        </p>
+        <p>
+            如本站的内容对您的权利造成了影响，
+            请发邮件至service@xclient.info,
+            我们会在第一时间将涉及版权的内容进行删除。
+        </p>
+        Copyright &copy; 2017 <a href="http://xclient.info/">精品MAC应用分享</a>. All rights reserved.
+    </div>
+</footer><!-- end #footer -->
+
+
+<script type="text/javascript" charset="utf-8" src="//cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
+
+<script type="text/javascript" src="http://img.xclient.info/js/adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js"></script>
+<script>
+</script>
+<script>
+var lim = {
+            ID : 'application',
+            AT : 'category_soft', //archive type
+            MT : 'home', //main type
+            icon : 'http://img.xclient.info/img/not-found-1-1.svg',
+        cover : 'http://img.xclient.info/img/default_cover.png',
+        dl: 'http://xclient.info/action/service?do=download'
+
+};
+
+//set default app icon
+$('.lim-icon').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.icon);
+});
+//set default post cover
+$('.lim-cover').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.cover);
+});
+
+
+
+//types
+switch(lim.AT){
+    case 'index':
+        lim.MT = 'home';
+        break;
+    case 'page':
+        switch(lim.ID){
+            case 'wishlist':
+            case 'feedback':
+                lim.MT = lim.ID;
+                break;
+        }
+        break;
+
+    case 'post':
+        lim.MT = 'post';
+        break;
+
+    case 'soft':
+        lim.MT = 'soft';
+        break;
+    case 'search':
+        lim.MT = 'home';
+        break;
+
+    default:
+        if (lim.AT.substring(lim.AT.length-5, lim.AT.length)=='_soft'){
+            lim.MT = 'soft';
+        } else {
+            lim.MT = 'post';
+        }
+        break;
+}
+
+$('.nav-'+lim.MT).addClass('current');
+
+//video
+
+window.onload=function(){
+
+    if (typeof(killads)=='undefined'){
+        $("#abptip").addClass("show");
+    }
+}
+
+
+
+
+</script>
+
+<!-- baidu tongji -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?befb95b3cbb10a937d15e5181625c9f2";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</body>
+</html>

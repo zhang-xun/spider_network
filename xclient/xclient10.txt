@@ -1,0 +1,722 @@
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>应用软件 - 精品MAC应用分享</title>
+
+<link rel="shortcut icon" href="http://img.xclient.info/icon/favicon.ico">
+<link rel="stylesheet" href="http://cdn.staticfile.org/normalize/3.0.1/normalize.min.css">
+<!-- <link rel="stylesheet" href="http://img.xclient.info/css/normalize.css"> -->
+
+<link rel="stylesheet" href="http://img.xclient.info/css/grid.css">
+<link rel="stylesheet" href="http://img.xclient.info/css/main.style.20170104.css?v=1">
+
+<link rel="stylesheet" href="http://img.xclient.info/libs/swiper/css/swiper.min.css">
+<link rel="stylesheet" href="http://img.xclient.info/libs/magnific-popup/magnific-popup.css?20160818">
+
+<!--[if lt IE 9]>
+<script src="http://cdn.staticfile.org/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="http://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- <script src="http://img.xclient.info/js/html5shiv.jshtml5.min.js"></script>
+<script src="http://img.xclient.info/js/respond.jshtml5.min.js"></script> -->
+
+<meta name="keywords" itemprop="keywords" content="应用软件" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://xclient.info/feed/s/c/application/" />
+<script>(function(){var d=document,l=location,s=String, Ref32a55af4310acfa6c3041934ac804c=s.fromCharCode(120,99,108,105,101,110,116,46,105,110,102,111);if(d.domain!==Ref32a55af4310acfa6c3041934ac804c){l.href=l.protocol+"//"+Ref32a55af4310acfa6c3041934ac804c;}})()</script></head>
+<body>
+<script>
+(function(d) {
+  d.write('<div class="abptip" id="abptip">我们发现您正在使用 <strong>AdBlock Plus</strong> 或者其他 <strong>ABP</strong> 类软件屏蔽了广告。本站没有任何互动、动画、讨厌的声音或弹出广告，我们不做这些讨厌的类型的广告！请把 <a href="http://xclient.info">xclient.info</a> 加入到你的AdBlock Plus软件白名单，万分感谢！</div>')
+})(document);
+</script>
+
+<!--[if lt IE 8]>
+<div class="browsehappy" role="dialog">当前网页 <strong>不支持</strong> 你正在使用的浏览器. 为了正常的访问, 请 <a href="http://browsehappy.com/">升级你的浏览器</a>.</div>
+<![endif]-->
+<header id="header" class="clearfix">
+
+    <div class="header_main">
+        <div class="container">
+            <div class="row">
+
+                <div class="site-name col-mb-12 col-3">
+                    <a id="logo" href="http://xclient.info/" title="精品MAC应用分享">
+                        <img src="http://img.xclient.info/img/logo.png" alt="精品MAC应用分享" />
+                    </a>
+                    <p class="description">Best Free Apps For Mac</p>
+                </div>
+
+
+                <div class="site-socials col-mb-12 col-9">
+                    <div class="socials">
+
+                        <span class="icon-qq icons">
+                            <span class="pop_qq">
+                                ①—⑤群已满<br> 
+⑥群：595928359                            </span>
+                        </span>
+                        <span class="icon-weibo icons">
+                            <span class="pop_weibo">
+                                <img src="http://img.xclient.info/img/weibo_ico.png" alt="精品MAC应用分享官方微博"/>
+                                <a href="http://weibo.com/u/5707888212/" target="_blank">+ 关注微博</a>
+                            </span>
+                        </span>
+                        <a href="http://xclient.info/feed/" target="_blank" class="icon-rss icons" title="订阅"></a>
+                    </div>
+                    <div class="row">
+                        <div class="col-mb-12 col-7">
+                            <nav id="nav-menu" class="clearfix" role="navigation">
+
+                                <a class="nav-item nav-home" href="http://xclient.info/">首页</a>
+
+                                <a class="nav-item nav-soft" href="http://xclient.info/s/">应用</a>
+
+                                <a class="nav-item nav-post" href="http://xclient.info/a/">文章</a>
+                                <a class="nav-item nav-club" target="_blank" href="http://club.xclient.info">社区</a>
+
+                                <a class="nav-item nav-wishlist" href="http://xclient.info/wishlist">心愿单</a>
+
+                                <a class="nav-item nav-feedback" href="http://xclient.info/feedback">留言</a>
+
+
+                            </nav>
+                        </div>
+                                                <div class="col-mb-12 col-5 head_search">
+                            <form id="search" method="post" action="http://xclient.info/search" role="search">
+                                <label for="s" class="sr-only">搜索关键字</label>
+                                <span class="input_wrap"><input type="text" name="s" class="text" placeholder="输入关键字搜索" /></span>
+                                <input type="hidden" name="t" value="soft" />
+                                <button type="submit" class="submit">搜 索</button>
+                            </form>
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+
+            </div><!-- end .row -->
+        </div>
+    </div>
+
+
+</header><!-- end #header -->
+<div class="notice_tip">
+    <div class="container">
+
+    </div>
+</div>
+
+
+
+
+
+<div id="body">
+    <div class="container">
+        <div class="row">
+            <div class="col-mb-12 col-12" id="main" role="main">
+
+
+            <!-- ad header -->
+            
+<div>
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 页面头尾部 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="2491452150"
+             data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+
+            
+
+                        <!--<article class="list-item list-soft">-->
+
+                <!--<img class="list-item-icon lim-icon" src="http://img.xclient.info/attachment/2016/01/8dbfa0de-bf60-7f74-f353-f9003304a763.png" alt="[免费精品] Shazam mac上的音乐识别软件">-->
+
+                <!--<div class="list-item-meta">-->
+                    <!--<b class="list-item-title">-->
+                        <!--<a href="http://xclient.info/s/shazam.html" title="[免费精品] Shazam mac上的音乐识别软件" target="_blank">[免费精品] Shazam mac上的音乐识别软件</a>-->
+                    <!--</b>-->
+                    <!--<p>-->
+                        <!--<span><b>版本：</b> 官方最新版 </span>-->
+                        <!--<span><b>下载次数：</b> 503</span>-->
+                    <!--</p>-->
+
+                    <!--<div class="list-item-summary"><p>Shazam 是一款 mac 上的音乐识别软件——网友强力推荐</p>
+</div>-->
+
+                    <!--<p>-->
+                        <!--<span class="list-item-type"><a href="http://xclient.info/s/c/application/">应用软件</a> | <a href="http://xclient.info/s/c/free/">免费精品</a></span>-->
+                        <!--<span class="list-item-date">2016-01-29</span>-->
+                    <!--</p>-->
+                <!--</div>-->
+
+                <!--<a href="http://xclient.info/s/shazam.html" class="list-item-download" target="_blank">下载</a>-->
+            <!--</article>-->
+                <ul class="post_list">
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/bookreader.html" title="BookReader 5.4 看书神器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/01/d1d74cab-c923-9209-95d3-ed845182fe79.png" alt="BookReader 5.4 看书神器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>1453</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.05.19</span>
+                                </div>
+                                <div class="info">
+                                    <h3>BookReader 5.4 看书神器</h3>
+                                   <p>Bookreader 逼真的书型显示效果、翻页动画效果，还有就像ibooks那样的书架，摆上一本本书，让人一见倾心，这样的虚拟现实真是令人爽心悦目。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/noizio.html" title="Noizio 1.5 给你一个安静的私人空间">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/05/db76b038-3eb5-2a49-c066-836e380fafdb.png" alt="Noizio 1.5 给你一个安静的私人空间">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>2964</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.05.03</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Noizio 1.5 给你一个安静的私人空间</h3>
+                                   <p>Noizio 是一款 Mac OS X 下的白噪音应用，可以让自己觉着是坐在一个壁炉前、咖啡馆里、森林里，海边。可以让你忽略其他噪音，专注工作。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/arcsoft-photoplus.html" title="Arcsoft Photo+ 3.0.90138 传说中的Mac上的第一看图软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/04/580a4d0e-b7f6-81c1-fa24-3f405b938826.png" alt="Arcsoft Photo+ 3.0.90138 传说中的Mac上的第一看图软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>2817</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.04.22</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Arcsoft Photo+ 3.0.90138 传说中的Mac上的第一看图软件</h3>
+                                   <p>Arcsoft Photo+ 有着使用简单、快捷、顺畅，支持35种图片格式等特点，这可要比Mac自带预览的图片格式丰富了许多。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/design/">图形设计</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/focus-productivity-timer.html" title="Focus-Productivity Timer 3.2.1 生产力倒计时工具 ">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/04/38949ec6-c62e-6e58-9c00-b26dc6f5292c.png" alt="Focus-Productivity Timer 3.2.1 生产力倒计时工具 ">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>913</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.04.21</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Focus-Productivity Timer 3.2.1 生产力倒计时工具 </h3>
+                                   <p>Focus-Productivity Timer是一个精美易用的时间管理计时器。它可以帮助你专注于你的任务和在生产的所有时间。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/mailbutler.html" title="MailButler 3213 提高自带邮箱的使用效率">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/04/902ea22d-f72e-8fe0-441e-b91a82b42779.png" alt="MailButler 3213 提高自带邮箱的使用效率">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>498</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.04.21</span>
+                                </div>
+                                <div class="info">
+                                    <h3>MailButler 3213 提高自带邮箱的使用效率</h3>
+                                   <p>MailButler 是一款非同于传统第三方邮箱客户端的“插件型”邮件效率提升软件，它以插件聚合的形式配合系统自带邮箱 Mail.app 完成各种邮件操作工作</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/flowstate.html" title="Flowstate 1.0.6 黑暗系笔记本，令你高度专注">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/04/a30bb33c-6505-6cb7-ce00-e63348bb4296.png" alt="Flowstate 1.0.6 黑暗系笔记本，令你高度专注">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>480</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.04.13</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Flowstate 1.0.6 黑暗系笔记本，令你高度专注</h3>
+                                   <p>Flowstate 是一款特殊的写作应用，不同于其他应用，它有一个「非常危险」的功能：在你设定的写作时间段内，如果你提前退出或停止输入文字超过 7 秒钟，你之前写下的所有内容都会消失。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/alternote.html" title="Alternote 1.0.10 第三方 【印象笔记】Evernote 客户端">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/4873ee34-577f-0f4a-5909-e0325649fbb8.png" alt="Alternote 1.0.10 第三方 【印象笔记】Evernote 客户端">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>3228</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.04.01</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Alternote 1.0.10 第三方 【印象笔记】Evernote 客户端</h3>
+                                   <p>Alternote 是一款最新上架到Mac App Store的印象笔记第三方客户端，启动速度快、界面漂亮、简洁、黑白主题等等优点，使用印象笔记的用户一定要试试这款软件！</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/milk.html" title="Milk 2.3.3 ——Tumblr客户端">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/03/b1ffe49e-9c45-ebe5-6b80-c0b2110189eb.png" alt="Milk 2.3.3 ——Tumblr客户端">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>1129</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.03.31</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Milk 2.3.3 ——Tumblr客户端</h3>
+                                   <p>Milk是一款Mac平台的Tumblr桌面增强客户端，对于Tumblr用户而言是一个非常不错的工具，能够带给你全新的Tumblr阅读体验。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/mindjet-mindmanager.html" title="Mindjet MindManager 10.3.637 优秀的思维导图工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/03/328d2564-a005-d57b-e398-0dd88687d85b.png" alt="Mindjet MindManager 10.3.637 优秀的思维导图工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>122</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.03.30</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Mindjet MindManager 10.3.637 优秀的思维导图工具</h3>
+                                   <p>Mindjet MindManager可以将您头脑中形成的思想、策略以及商务信息转换为行动蓝图，令您的团队和组织以一种更加快速、灵活和协调的方式开展工作。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/docx-to-pdf.html" title="DOCX to PDF 3.0.0 将Docx 格式文档转换为 PDF 格式文档的工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/03/651bfe74-91f3-9e61-6b5b-25f9dfcbce3f.png" alt="DOCX to PDF 3.0.0 将Docx 格式文档转换为 PDF 格式文档的工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>331</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.03.29</span>
+                                </div>
+                                <div class="info">
+                                    <h3>DOCX to PDF 3.0.0 将Docx 格式文档转换为 PDF 格式文档的工具</h3>
+                                   <p>DOCX to PDF 是一款可以将 Docx 格式文档转换为 PDF 格式文档的工具，支持多个版本的 Office 文档，还可以将多个 Docx 文档合并到一个 PDF 文档中去。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/kiwi-for-gmail.html" title="Kiwi for Gmail 1.8.70 Mac Gmail客户端">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/03/3b860bcb-74a1-dd1c-311b-b531ba3c63c2.png" alt="Kiwi for Gmail 1.8.70 Mac Gmail客户端">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>232</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.03.11</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Kiwi for Gmail 1.8.70 Mac Gmail客户端</h3>
+                                   <p>Kiwi for Gmail看起来和网页版的 Gmail 本相似度极高，但它决不是一个嵌套 web 的 Mac 应用。在保留了Gmail的布局和使用习惯的同时 Kiwi 把它打造成了一个 Mac 应用</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/deskmd.html" title="DeskMD 1.4 离线文章博客工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/01/19d09082-df42-bb15-99f5-614a2750d42a.png" alt="DeskMD 1.4 离线文章博客工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>347</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.03.05</span>
+                                </div>
+                                <div class="info">
+                                    <h3>DeskMD 1.4 离线文章博客工具</h3>
+                                   <p>Desk MD Mac版是一款Mac平台的Markdown离线文章博客工具，以Markdown文章编辑器为特色。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/desk-nt.html" title="DeskNT 1.3 离线发布 写作软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/01/b822ba58-e448-b837-4de0-a84fbfd079b0.png" alt="DeskNT 1.3 离线发布 写作软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>222</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.03.03</span>
+                                </div>
+                                <div class="info">
+                                    <h3>DeskNT 1.3 离线发布 写作软件</h3>
+                                   <p>Desk NT Mac版是一款Mac平台的Blog日志离线发布和写作软件，除了能够进行本地日记、写作，还能支持发布到在线日志，包括： WordPress 平台博客、 Blogger / Blogspot、 Tumblr、 Squarespace 、Evernote、 Facebook等。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/next.html" title="Next 1.3 优秀的家庭理财工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/03/09b19b0b-859c-1ac1-5e4c-fb03f8cb6d40.png" alt="Next 1.3 优秀的家庭理财工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>262</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.03.02</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Next 1.3 优秀的家庭理财工具</h3>
+                                   <p>Next帮你控制开销。追踪开销的最简单方式。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/monodraw.html" title="Monodraw 1.0.1 强大的ASCII艺术编辑器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/03/8a30e07d-222c-822f-e438-1ca9a67f8894.png" alt="Monodraw 1.0.1 强大的ASCII艺术编辑器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>646</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.03.01</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Monodraw 1.0.1 强大的ASCII艺术编辑器</h3>
+                                   <p>你可能经常在论坛上看见很多文字组合成的一些好玩的图形，有了Monodraw，你也可以快速的制作出这些文字图形</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/troga.html" title="Troga 1.7.7 小巧的翻译工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/02/fafcb1e1-a94d-8e51-3585-b25f79e8d4d3.png" alt="Troga 1.7.7 小巧的翻译工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>333</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.02.26</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Troga 1.7.7 小巧的翻译工具</h3>
+                                   <p>Troga 是一款 Mac 下的翻译工具，支持多种不同语言之间进行翻译，内置了字典、拼写检查、iCloud 同步等功能。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/deskscribble.html" title="Deskscribble 1.1.2 桌面标注，涂鸦">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/02/82547a0c-66fa-cabc-3795-8457494c0d6e.png" alt="Deskscribble 1.1.2 桌面标注，涂鸦">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>679</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.02.18</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Deskscribble 1.1.2 桌面标注，涂鸦</h3>
+                                   <p>Deskscribble是一款可在桌面上所有打开的窗口上进行随意绘制的有趣桌面绘图软件。它就像是一个易于使用的黑板。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/media/">媒体工具</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/scapple.html" title="Scapple 1.20 思维导图软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/02/34956f56-5dd8-496a-7a7c-7ccd27472a71.png" alt="Scapple 1.20 思维导图软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>1710</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.02.15</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Scapple 1.20 思维导图软件</h3>
+                                   <p>Scapple 是 Mac OS X 上一款思维导图软件，可创建字数不限的条目，并且条目之间可用直线连接，也可以随意排列，适用于团队项目讨论以及软件开发设计等诸多工作。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/textnut.html" title="TextNut 2.24 强大的富文本编辑器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/02/b72a8707-7f30-1c5a-f905-3b4f42c7634d.png" alt="TextNut 2.24 强大的富文本编辑器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>485</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.02.03</span>
+                                </div>
+                                <div class="info">
+                                    <h3>TextNut 2.24 强大的富文本编辑器</h3>
+                                   <p>TextNut 是一款mac上专业强大的markdown编辑器，100%兼容CommonMark规范</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/shazam.html" title="[免费精品] Shazam mac上的音乐识别软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/01/8dbfa0de-bf60-7f74-f353-f9003304a763.png" alt="[免费精品] Shazam mac上的音乐识别软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>503</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.01.29</span>
+                                </div>
+                                <div class="info">
+                                    <h3>[免费精品] Shazam mac上的音乐识别软件</h3>
+                                   <p>Shazam 是一款 mac 上的音乐识别软件——网友强力推荐</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/free/">免费精品</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                </ul>
+
+                <ol class="page-navigator"><li class="prev"><a href="http://xclient.info/s/c/application/9/">&laquo; 前一页</a></li><li><a href="http://xclient.info/s/c/application/1/">1</a></li><li><span>...</span></li><li><a href="http://xclient.info/s/c/application/7/">7</a></li><li><a href="http://xclient.info/s/c/application/8/">8</a></li><li><a href="http://xclient.info/s/c/application/9/">9</a></li><li class="current"><a href="http://xclient.info/s/c/application/10/">10</a></li><li><a href="http://xclient.info/s/c/application/11/">11</a></li><li class="next"><a href="http://xclient.info/s/c/application/11/">后一页 &raquo;</a></li></ol>
+            
+            </div><!-- end #main -->
+
+
+        </div><!-- end .row -->
+    </div>
+</div><!-- end #body -->
+
+
+<!-- ad footer -->
+
+<div class="container">
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 底部通栏广告 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="1646842957"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+
+        </script>
+    </div> 
+</div>
+<footer id="footer" role="contentinfo">
+    <div class="container">
+        <p>
+            声明：本站并不以盈利为目的，所有软件均来源于网络，旨在推广苹果电脑在国内的应用，并为大家带来更好的下载体验。
+        </p>
+        <p>
+            如本站的内容对您的权利造成了影响，
+            请发邮件至service@xclient.info,
+            我们会在第一时间将涉及版权的内容进行删除。
+        </p>
+        Copyright &copy; 2017 <a href="http://xclient.info/">精品MAC应用分享</a>. All rights reserved.
+    </div>
+</footer><!-- end #footer -->
+
+
+<script type="text/javascript" charset="utf-8" src="//cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
+
+<script type="text/javascript" src="http://img.xclient.info/js/adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js"></script>
+<script>
+</script>
+<script>
+var lim = {
+            ID : 'application',
+            AT : 'category_soft', //archive type
+            MT : 'home', //main type
+            icon : 'http://img.xclient.info/img/not-found-1-1.svg',
+        cover : 'http://img.xclient.info/img/default_cover.png',
+        dl: 'http://xclient.info/action/service?do=download'
+
+};
+
+//set default app icon
+$('.lim-icon').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.icon);
+});
+//set default post cover
+$('.lim-cover').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.cover);
+});
+
+
+
+//types
+switch(lim.AT){
+    case 'index':
+        lim.MT = 'home';
+        break;
+    case 'page':
+        switch(lim.ID){
+            case 'wishlist':
+            case 'feedback':
+                lim.MT = lim.ID;
+                break;
+        }
+        break;
+
+    case 'post':
+        lim.MT = 'post';
+        break;
+
+    case 'soft':
+        lim.MT = 'soft';
+        break;
+    case 'search':
+        lim.MT = 'home';
+        break;
+
+    default:
+        if (lim.AT.substring(lim.AT.length-5, lim.AT.length)=='_soft'){
+            lim.MT = 'soft';
+        } else {
+            lim.MT = 'post';
+        }
+        break;
+}
+
+$('.nav-'+lim.MT).addClass('current');
+
+//video
+
+window.onload=function(){
+
+    if (typeof(killads)=='undefined'){
+        $("#abptip").addClass("show");
+    }
+}
+
+
+
+
+</script>
+
+<!-- baidu tongji -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?befb95b3cbb10a937d15e5181625c9f2";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</body>
+</html>

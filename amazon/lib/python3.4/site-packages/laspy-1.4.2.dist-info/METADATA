@@ -1,0 +1,25 @@
+Metadata-Version: 2.0
+Name: laspy
+Version: 1.4.2
+Summary: Native Python ASPRS LAS read/write library
+Home-page: https://github.com/grantbrown/laspy
+Author: Grant Brown
+Author-email: grant.brown73@gmail.com
+License: BSD
+Keywords: gis lidar las
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Topic :: Scientific/Engineering :: GIS
+Requires-Dist: numpy
+
+Laspy is a python library for reading, writing, and 
+modifying .LAS LIDAR files. It provides both a dimension 
+and point focused API. Documentation is available at 
+www.laspy.org, and the source is available at 
+www.github.com/grantbrown/laspy
+

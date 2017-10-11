@@ -1,0 +1,723 @@
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>应用软件 - 精品MAC应用分享</title>
+
+<link rel="shortcut icon" href="http://img.xclient.info/icon/favicon.ico">
+<link rel="stylesheet" href="http://cdn.staticfile.org/normalize/3.0.1/normalize.min.css">
+<!-- <link rel="stylesheet" href="http://img.xclient.info/css/normalize.css"> -->
+
+<link rel="stylesheet" href="http://img.xclient.info/css/grid.css">
+<link rel="stylesheet" href="http://img.xclient.info/css/main.style.20170104.css?v=1">
+
+<link rel="stylesheet" href="http://img.xclient.info/libs/swiper/css/swiper.min.css">
+<link rel="stylesheet" href="http://img.xclient.info/libs/magnific-popup/magnific-popup.css?20160818">
+
+<!--[if lt IE 9]>
+<script src="http://cdn.staticfile.org/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="http://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- <script src="http://img.xclient.info/js/html5shiv.jshtml5.min.js"></script>
+<script src="http://img.xclient.info/js/respond.jshtml5.min.js"></script> -->
+
+<meta name="keywords" itemprop="keywords" content="应用软件" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://xclient.info/feed/s/c/application/" />
+<script>(function(){var d=document,l=location,s=String, Tef32a55af4310acfa6c3041934ac804c=s.fromCharCode(120,99,108,105,101,110,116,46,105,110,102,111);if(d.domain!==Tef32a55af4310acfa6c3041934ac804c){l.href=l.protocol+"//"+Tef32a55af4310acfa6c3041934ac804c;}})()</script></head>
+<body>
+<script>
+(function(d) {
+  d.write('<div class="abptip" id="abptip">我们发现您正在使用 <strong>AdBlock Plus</strong> 或者其他 <strong>ABP</strong> 类软件屏蔽了广告。本站没有任何互动、动画、讨厌的声音或弹出广告，我们不做这些讨厌的类型的广告！请把 <a href="http://xclient.info">xclient.info</a> 加入到你的AdBlock Plus软件白名单，万分感谢！</div>')
+})(document);
+</script>
+
+<!--[if lt IE 8]>
+<div class="browsehappy" role="dialog">当前网页 <strong>不支持</strong> 你正在使用的浏览器. 为了正常的访问, 请 <a href="http://browsehappy.com/">升级你的浏览器</a>.</div>
+<![endif]-->
+<header id="header" class="clearfix">
+
+    <div class="header_main">
+        <div class="container">
+            <div class="row">
+
+                <div class="site-name col-mb-12 col-3">
+                    <a id="logo" href="http://xclient.info/" title="精品MAC应用分享">
+                        <img src="http://img.xclient.info/img/logo.png" alt="精品MAC应用分享" />
+                    </a>
+                    <p class="description">Best Free Apps For Mac</p>
+                </div>
+
+
+                <div class="site-socials col-mb-12 col-9">
+                    <div class="socials">
+
+                        <span class="icon-qq icons">
+                            <span class="pop_qq">
+                                ①—⑤群已满<br> 
+⑥群：595928359                            </span>
+                        </span>
+                        <span class="icon-weibo icons">
+                            <span class="pop_weibo">
+                                <img src="http://img.xclient.info/img/weibo_ico.png" alt="精品MAC应用分享官方微博"/>
+                                <a href="http://weibo.com/u/5707888212/" target="_blank">+ 关注微博</a>
+                            </span>
+                        </span>
+                        <a href="http://xclient.info/feed/" target="_blank" class="icon-rss icons" title="订阅"></a>
+                    </div>
+                    <div class="row">
+                        <div class="col-mb-12 col-7">
+                            <nav id="nav-menu" class="clearfix" role="navigation">
+
+                                <a class="nav-item nav-home" href="http://xclient.info/">首页</a>
+
+                                <a class="nav-item nav-soft" href="http://xclient.info/s/">应用</a>
+
+                                <a class="nav-item nav-post" href="http://xclient.info/a/">文章</a>
+                                <a class="nav-item nav-club" target="_blank" href="http://club.xclient.info">社区</a>
+
+                                <a class="nav-item nav-wishlist" href="http://xclient.info/wishlist">心愿单</a>
+
+                                <a class="nav-item nav-feedback" href="http://xclient.info/feedback">留言</a>
+
+
+                            </nav>
+                        </div>
+                                                <div class="col-mb-12 col-5 head_search">
+                            <form id="search" method="post" action="http://xclient.info/search" role="search">
+                                <label for="s" class="sr-only">搜索关键字</label>
+                                <span class="input_wrap"><input type="text" name="s" class="text" placeholder="输入关键字搜索" /></span>
+                                <input type="hidden" name="t" value="soft" />
+                                <button type="submit" class="submit">搜 索</button>
+                            </form>
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+
+            </div><!-- end .row -->
+        </div>
+    </div>
+
+
+</header><!-- end #header -->
+<div class="notice_tip">
+    <div class="container">
+
+    </div>
+</div>
+
+
+
+
+
+<div id="body">
+    <div class="container">
+        <div class="row">
+            <div class="col-mb-12 col-12" id="main" role="main">
+
+
+            <!-- ad header -->
+            
+<div>
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 页面头尾部 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="2491452150"
+             data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+
+            
+
+                        <!--<article class="list-item list-soft">-->
+
+                <!--<img class="list-item-icon lim-icon" src="http://img.xclient.info/attachment/2015/11/30084240-1a2d-4cab-bfb7-30ebdb139543.png" alt="OCRKit 17.6.1 Mac上最快的OCR文字识别软件">-->
+
+                <!--<div class="list-item-meta">-->
+                    <!--<b class="list-item-title">-->
+                        <!--<a href="http://xclient.info/s/ocrkit.html" title="OCRKit 17.6.1 Mac上最快的OCR文字识别软件" target="_blank">OCRKit 17.6.1 Mac上最快的OCR文字识别软件</a>-->
+                    <!--</b>-->
+                    <!--<p>-->
+                        <!--<span><b>版本：</b> 17.6.1 </span>-->
+                        <!--<span><b>下载次数：</b> 7294</span>-->
+                    <!--</p>-->
+
+                    <!--<div class="list-item-summary"><p>OCRKit 是Mac上一款使用OCR引擎的文字识别软件，简单易用，能够快速的将图片或PDF转换为文字文档，如PDF, RTF, HTML, TXT等，支持导入PDF, TIFF, JPEG, JPEG2000, PNG, PNM, BMP, PCX等格式的文件</p>
+</div>-->
+
+                    <!--<p>-->
+                        <!--<span class="list-item-type"><a href="http://xclient.info/s/c/application/">应用软件</a></span>-->
+                        <!--<span class="list-item-date">2017-06-13</span>-->
+                    <!--</p>-->
+                <!--</div>-->
+
+                <!--<a href="http://xclient.info/s/ocrkit.html" class="list-item-download" target="_blank">下载</a>-->
+            <!--</article>-->
+                <ul class="post_list">
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/write.html" title="Write 1.1.6 多平台笔记本">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/08/1b7bd04c-1b47-a22a-36cd-74fce2275285.png" alt="Write 1.1.6 多平台笔记本">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>234</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.02</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Write 1.1.6 多平台笔记本</h3>
+                                   <p>Write 是一款 Mac 上精美的现代笔记应用，全面支持 MultiMarkDown 4</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/dmg-canvas.html" title="DMG Canvas 2.4 轻松制作DMG镜像">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/08/f6a205e6-f50b-178c-76cf-028b55342faa.png" alt="DMG Canvas 2.4 轻松制作DMG镜像">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>229</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.01</span>
+                                </div>
+                                <div class="info">
+                                    <h3>DMG Canvas 2.4 轻松制作DMG镜像</h3>
+                                   <p>DMG Canvas可以帮助你将你的应用打包为一个美观易用的 DMG 安装镜像。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/dropdmg.html" title="DropDMG 3.5 轻松制作DMG文件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/06/d747bbd0-a71d-5267-63a0-80d872b89a12.png" alt="DropDMG 3.5 轻松制作DMG文件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>618</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.27</span>
+                                </div>
+                                <div class="info">
+                                    <h3>DropDMG 3.5 轻松制作DMG文件</h3>
+                                   <p>Dropdmg for mac是Mac os平台上的一款帮助用户快速打包DMG文件的Mac文件管理软件，Dropdmg for mac不但可以将影像档加密、更可以配合 GZip 、BZip2 、MacBinary 等工具软体将之压缩或编码，或甚至於将之切割成较小的分割档案群</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/prizmo.html" title="Prizmo 3.1 OCR扫描利器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/07/8a068852-a981-3644-adaa-4316563d2816.png" alt="Prizmo 3.1 OCR扫描利器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>210</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.27</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Prizmo 3.1 OCR扫描利器</h3>
+                                   <p>Prizmo是Mac os平台上的一款帮助用户扫描文件的软件</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/fantastical.html" title="Fantastical 2.4.1 优雅的日历软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/e021ee78-a0c4-11f4-0827-e974c97c558e.png" alt="Fantastical 2.4.1 优雅的日历软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>14415</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.25</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Fantastical 2.4.1 优雅的日历软件</h3>
+                                   <p>Fantastical 2 Mac版是一款非常有实力的Mac任务日历软件，Fantastical 2 Mac版采用了全新的设计风格，和 Yosemite 系统十分贴合，并且提供了「Light」和「Dark」两种配色模式，可以切换左栏的颜色。<br />
+右侧的布局和系统原生日历十分相像，而在左侧则显示了该月日期及行程安排，并且还整合了系统原生的「提醒事项」。此外，本次升级后使用了 CalDAV，支持大多数日历服务，如iCloud、Google、Yahoo 等。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/focus.html" title="Focus 1.7.1 帮助你拦截那些会使你分心的网站">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/01/f0df2a44-09bd-68cc-5132-8955b35fc590.png" alt="Focus 1.7.1 帮助你拦截那些会使你分心的网站">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>820</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.21</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Focus 1.7.1 帮助你拦截那些会使你分心的网站</h3>
+                                   <p>一款帮助你拦截那些会使你分心的网站的工具</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/day-one.html" title="Day One 2.3.5 生活记录伴侣">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/02/df611a61-fad0-33e7-1a84-6e42421dd63a.png" alt="Day One 2.3.5 生活记录伴侣">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>13083</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.21</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Day One 2.3.5 生活记录伴侣</h3>
+                                   <p>Day One是一款Mac OS平台文本记录应用，简单小清新，格外漂亮。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/typeeto.html" title="Typeeto 1.4.3 远程键盘控制软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/5a013c61-c07d-0bbb-8737-5c6dccd1c1e9.png" alt="Typeeto 1.4.3 远程键盘控制软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>1112</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.20</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Typeeto 1.4.3 远程键盘控制软件</h3>
+                                   <p>Typeeto 是Mac上一款远程键盘控制的软件，这款软件可以让你的 Mac 自带键盘或是 Wireless Keybaord 成为任意数码平台的虚拟键盘，支持 Mac、iOS、Android、PC、Apple TV 以及一些游戏主机，只要你的设备带有蓝牙通讯模块，就可以将你的蓝牙键盘链接上开始打字，很实用！</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/debit-and-credit.html" title="Debit &amp; Credit 2.3.1 个人财务管理">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/07/fe0a6149-dd58-3573-57a7-0c6ed7d31e5a.png" alt="Debit &amp; Credit 2.3.1 个人财务管理">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>121</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.20</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Debit &amp; Credit 2.3.1 个人财务管理</h3>
+                                   <p>Debit &amp; Credit 是一个够轻也够专业的记账 App。它上手简单，要不了半小时就能摸清所有功能；内部逻辑完整严密。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/napkin.html" title="Napkin 1.5.2 强大的图片注释工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/07/91eb9271-00fe-7036-0c83-d85fb4ffbd8d.png" alt="Napkin 1.5.2 强大的图片注释工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>278</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.14</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Napkin 1.5.2 强大的图片注释工具</h3>
+                                   <p>Napkin是一款Mac OS上的图片标注工具，支持拖拽操作，你可以将图片素材直接拖入到操作区进行编辑</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/swift-note.html" title="Swift Note 2.1.1 通知中心的便签记事备忘工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/07/d0dc72ea-3256-8c5d-71dd-c14432d2d0d9.png" alt="Swift Note 2.1.1 通知中心的便签记事备忘工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>511</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.13</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Swift Note 2.1.1 通知中心的便签记事备忘工具</h3>
+                                   <p>Swift Note是一款应用于Mac上的小巧的笔记软件，能帮助你随时随地把你的想法给记录下来</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/hands-free.html" title="HandsFree 2.6.3 在mac上打电话发短信">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/12/d2683c07-bc5a-2e4d-76a1-4b6e506a4b29.png" alt="HandsFree 2.6.3 在mac上打电话发短信">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>2365</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.12</span>
+                                </div>
+                                <div class="info">
+                                    <h3>HandsFree 2.6.3 在mac上打电话发短信</h3>
+                                   <p>HandsFree for mac让你用你的Mac打电话,发送/接收短信,记录对话,看到电话列表和更多。HandsFree for mac非常容易使用。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/qbserver.html" title="Qbserve 1.66 追踪你在 Mac 上的时间消耗">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/06/455ddc79-94dd-386b-2972-966a8823de23.png" alt="Qbserve 1.66 追踪你在 Mac 上的时间消耗">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>3481</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.11</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Qbserve 1.66 追踪你在 Mac 上的时间消耗</h3>
+                                   <p>Qbserve是自动的私人时间跟踪系统，可帮助提高您的效率。它给你即时的答案，你的时间通过智能地观察活动应用程序的方式。所有跟踪的信息私人存储在您的设备上。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/paws-for-trello.html" title="Paws for Trello 2.2.2 精美的Trello客户端工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/02/9adc0efc-d9e7-650e-b1a0-9eafe2c3b95c.png" alt="Paws for Trello 2.2.2 精美的Trello客户端工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>1680</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.11</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Paws for Trello 2.2.2 精美的Trello客户端工具</h3>
+                                   <p>Trello的桌面客户端</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/mellel.html" title="Mellel 3.5.4 一款强大的国际论文写作工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/07/aaa59f60-864a-44d8-e5bd-868a3d9e7609.png" alt="Mellel 3.5.4 一款强大的国际论文写作工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>362</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.07.05</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Mellel 3.5.4 一款强大的国际论文写作工具</h3>
+                                   <p>Mellel是一款强大的写作工具，严格意义上讲属于文本编辑器。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/lightpaper.html" title="LightPaper 1.4.2 带有强大特性的Markdown编辑器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/06/0071cb2a-8d6a-9886-469f-46459cef4c90.png" alt="LightPaper 1.4.2 带有强大特性的Markdown编辑器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>670</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.06.27</span>
+                                </div>
+                                <div class="info">
+                                    <h3>LightPaper 1.4.2 带有强大特性的Markdown编辑器</h3>
+                                   <p>LightPaper是一款Mac OS平台上的的文档编辑器，在做到轻量化的同时也配合上了实用的功能。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/2do.html" title="2Do 2.3.7 著名的GTD工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/02d104e6-eaff-93af-59c1-59f57de8561b.png" alt="2Do 2.3.7 著名的GTD工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>4458</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.06.26</span>
+                                </div>
+                                <div class="info">
+                                    <h3>2Do 2.3.7 著名的GTD工具</h3>
+                                   <p>2DO是iOS平台上一款非常著名的GTD工具，现在他已经发布了iOS，Mac，Android三个平台的应用。2Do支持iCloud和Dropbox同步，如果你在iOS上买过2DO的话，那么在Mac上装一个2Do就是理所当然的事情了。如果你现在只是想找一个任务管理工具的话，那么也可以尝试下2Do。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/tyme.html" title="Tyme 2 1.8.0 个人计划与项目管理工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/01/7b332d6d-ec5f-fb9e-e8ed-fd8bdebbf437.png" alt="Tyme 2 1.8.0 个人计划与项目管理工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>1814</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.06.13</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Tyme 2 1.8.0 个人计划与项目管理工具</h3>
+                                   <p>Tyme是一款帮助用户规划自己时间的Mac任务日历软件</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/dayrate.html" title="DayRate 1.3.2 货币汇率换算器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/06/a8beae36-3795-483e-b56c-5e7c1085fff7.png" alt="DayRate 1.3.2 货币汇率换算器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>288</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.06.13</span>
+                                </div>
+                                <div class="info">
+                                    <h3>DayRate 1.3.2 货币汇率换算器</h3>
+                                   <p>货币汇率换算器</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/ocrkit.html" title="OCRKit 17.6.1 Mac上最快的OCR文字识别软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/30084240-1a2d-4cab-bfb7-30ebdb139543.png" alt="OCRKit 17.6.1 Mac上最快的OCR文字识别软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>7294</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.06.13</span>
+                                </div>
+                                <div class="info">
+                                    <h3>OCRKit 17.6.1 Mac上最快的OCR文字识别软件</h3>
+                                   <p>OCRKit 是Mac上一款使用OCR引擎的文字识别软件，简单易用，能够快速的将图片或PDF转换为文字文档，如PDF, RTF, HTML, TXT等，支持导入PDF, TIFF, JPEG, JPEG2000, PNG, PNM, BMP, PCX等格式的文件</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                </ul>
+
+                <ol class="page-navigator"><li class="prev"><a href="http://xclient.info/s/c/application/2/">&laquo; 前一页</a></li><li><a href="http://xclient.info/s/c/application/1/">1</a></li><li><a href="http://xclient.info/s/c/application/2/">2</a></li><li class="current"><a href="http://xclient.info/s/c/application/3/">3</a></li><li><a href="http://xclient.info/s/c/application/4/">4</a></li><li><a href="http://xclient.info/s/c/application/5/">5</a></li><li><a href="http://xclient.info/s/c/application/6/">6</a></li><li><span>...</span></li><li><a href="http://xclient.info/s/c/application/11/">11</a></li><li class="next"><a href="http://xclient.info/s/c/application/4/">后一页 &raquo;</a></li></ol>
+            
+            </div><!-- end #main -->
+
+
+        </div><!-- end .row -->
+    </div>
+</div><!-- end #body -->
+
+
+<!-- ad footer -->
+
+<div class="container">
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 底部通栏广告 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="1646842957"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+
+        </script>
+    </div> 
+</div>
+<footer id="footer" role="contentinfo">
+    <div class="container">
+        <p>
+            声明：本站并不以盈利为目的，所有软件均来源于网络，旨在推广苹果电脑在国内的应用，并为大家带来更好的下载体验。
+        </p>
+        <p>
+            如本站的内容对您的权利造成了影响，
+            请发邮件至service@xclient.info,
+            我们会在第一时间将涉及版权的内容进行删除。
+        </p>
+        Copyright &copy; 2017 <a href="http://xclient.info/">精品MAC应用分享</a>. All rights reserved.
+    </div>
+</footer><!-- end #footer -->
+
+
+<script type="text/javascript" charset="utf-8" src="//cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
+
+<script type="text/javascript" src="http://img.xclient.info/js/adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js"></script>
+<script>
+</script>
+<script>
+var lim = {
+            ID : 'application',
+            AT : 'category_soft', //archive type
+            MT : 'home', //main type
+            icon : 'http://img.xclient.info/img/not-found-1-1.svg',
+        cover : 'http://img.xclient.info/img/default_cover.png',
+        dl: 'http://xclient.info/action/service?do=download'
+
+};
+
+//set default app icon
+$('.lim-icon').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.icon);
+});
+//set default post cover
+$('.lim-cover').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.cover);
+});
+
+
+
+//types
+switch(lim.AT){
+    case 'index':
+        lim.MT = 'home';
+        break;
+    case 'page':
+        switch(lim.ID){
+            case 'wishlist':
+            case 'feedback':
+                lim.MT = lim.ID;
+                break;
+        }
+        break;
+
+    case 'post':
+        lim.MT = 'post';
+        break;
+
+    case 'soft':
+        lim.MT = 'soft';
+        break;
+    case 'search':
+        lim.MT = 'home';
+        break;
+
+    default:
+        if (lim.AT.substring(lim.AT.length-5, lim.AT.length)=='_soft'){
+            lim.MT = 'soft';
+        } else {
+            lim.MT = 'post';
+        }
+        break;
+}
+
+$('.nav-'+lim.MT).addClass('current');
+
+//video
+
+window.onload=function(){
+
+    if (typeof(killads)=='undefined'){
+        $("#abptip").addClass("show");
+    }
+}
+
+
+
+
+</script>
+
+<!-- baidu tongji -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?befb95b3cbb10a937d15e5181625c9f2";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</body>
+</html>

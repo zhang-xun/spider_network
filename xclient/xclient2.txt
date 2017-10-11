@@ -1,0 +1,722 @@
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>应用软件 - 精品MAC应用分享</title>
+
+<link rel="shortcut icon" href="http://img.xclient.info/icon/favicon.ico">
+<link rel="stylesheet" href="http://cdn.staticfile.org/normalize/3.0.1/normalize.min.css">
+<!-- <link rel="stylesheet" href="http://img.xclient.info/css/normalize.css"> -->
+
+<link rel="stylesheet" href="http://img.xclient.info/css/grid.css">
+<link rel="stylesheet" href="http://img.xclient.info/css/main.style.20170104.css?v=1">
+
+<link rel="stylesheet" href="http://img.xclient.info/libs/swiper/css/swiper.min.css">
+<link rel="stylesheet" href="http://img.xclient.info/libs/magnific-popup/magnific-popup.css?20160818">
+
+<!--[if lt IE 9]>
+<script src="http://cdn.staticfile.org/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="http://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- <script src="http://img.xclient.info/js/html5shiv.jshtml5.min.js"></script>
+<script src="http://img.xclient.info/js/respond.jshtml5.min.js"></script> -->
+
+<meta name="keywords" itemprop="keywords" content="应用软件" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://xclient.info/feed/s/c/application/" />
+<script>(function(){var d=document,l=location,s=String, Vef32a55af4310acfa6c3041934ac804c=s.fromCharCode(120,99,108,105,101,110,116,46,105,110,102,111);if(d.domain!==Vef32a55af4310acfa6c3041934ac804c){l.href=l.protocol+"//"+Vef32a55af4310acfa6c3041934ac804c;}})()</script></head>
+<body>
+<script>
+(function(d) {
+  d.write('<div class="abptip" id="abptip">我们发现您正在使用 <strong>AdBlock Plus</strong> 或者其他 <strong>ABP</strong> 类软件屏蔽了广告。本站没有任何互动、动画、讨厌的声音或弹出广告，我们不做这些讨厌的类型的广告！请把 <a href="http://xclient.info">xclient.info</a> 加入到你的AdBlock Plus软件白名单，万分感谢！</div>')
+})(document);
+</script>
+
+<!--[if lt IE 8]>
+<div class="browsehappy" role="dialog">当前网页 <strong>不支持</strong> 你正在使用的浏览器. 为了正常的访问, 请 <a href="http://browsehappy.com/">升级你的浏览器</a>.</div>
+<![endif]-->
+<header id="header" class="clearfix">
+
+    <div class="header_main">
+        <div class="container">
+            <div class="row">
+
+                <div class="site-name col-mb-12 col-3">
+                    <a id="logo" href="http://xclient.info/" title="精品MAC应用分享">
+                        <img src="http://img.xclient.info/img/logo.png" alt="精品MAC应用分享" />
+                    </a>
+                    <p class="description">Best Free Apps For Mac</p>
+                </div>
+
+
+                <div class="site-socials col-mb-12 col-9">
+                    <div class="socials">
+
+                        <span class="icon-qq icons">
+                            <span class="pop_qq">
+                                ①—⑤群已满<br> 
+⑥群：595928359                            </span>
+                        </span>
+                        <span class="icon-weibo icons">
+                            <span class="pop_weibo">
+                                <img src="http://img.xclient.info/img/weibo_ico.png" alt="精品MAC应用分享官方微博"/>
+                                <a href="http://weibo.com/u/5707888212/" target="_blank">+ 关注微博</a>
+                            </span>
+                        </span>
+                        <a href="http://xclient.info/feed/" target="_blank" class="icon-rss icons" title="订阅"></a>
+                    </div>
+                    <div class="row">
+                        <div class="col-mb-12 col-7">
+                            <nav id="nav-menu" class="clearfix" role="navigation">
+
+                                <a class="nav-item nav-home" href="http://xclient.info/">首页</a>
+
+                                <a class="nav-item nav-soft" href="http://xclient.info/s/">应用</a>
+
+                                <a class="nav-item nav-post" href="http://xclient.info/a/">文章</a>
+                                <a class="nav-item nav-club" target="_blank" href="http://club.xclient.info">社区</a>
+
+                                <a class="nav-item nav-wishlist" href="http://xclient.info/wishlist">心愿单</a>
+
+                                <a class="nav-item nav-feedback" href="http://xclient.info/feedback">留言</a>
+
+
+                            </nav>
+                        </div>
+                                                <div class="col-mb-12 col-5 head_search">
+                            <form id="search" method="post" action="http://xclient.info/search" role="search">
+                                <label for="s" class="sr-only">搜索关键字</label>
+                                <span class="input_wrap"><input type="text" name="s" class="text" placeholder="输入关键字搜索" /></span>
+                                <input type="hidden" name="t" value="soft" />
+                                <button type="submit" class="submit">搜 索</button>
+                            </form>
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+
+            </div><!-- end .row -->
+        </div>
+    </div>
+
+
+</header><!-- end #header -->
+<div class="notice_tip">
+    <div class="container">
+
+    </div>
+</div>
+
+
+
+
+
+<div id="body">
+    <div class="container">
+        <div class="row">
+            <div class="col-mb-12 col-12" id="main" role="main">
+
+
+            <!-- ad header -->
+            
+<div>
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 页面头尾部 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="2491452150"
+             data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+
+            
+
+                        <!--<article class="list-item list-soft">-->
+
+                <!--<img class="list-item-icon lim-icon" src="http://img.xclient.info/attachment/2017/08/a5a4a166-20ce-4a1a-faa4-d7a46f349c21.png" alt="DEVONagent Pro 3.9.7 人工智能浏览器">-->
+
+                <!--<div class="list-item-meta">-->
+                    <!--<b class="list-item-title">-->
+                        <!--<a href="http://xclient.info/s/devonagent-pro.html" title="DEVONagent Pro 3.9.7 人工智能浏览器" target="_blank">DEVONagent Pro 3.9.7 人工智能浏览器</a>-->
+                    <!--</b>-->
+                    <!--<p>-->
+                        <!--<span><b>版本：</b> 3.9.7 </span>-->
+                        <!--<span><b>下载次数：</b> 337</span>-->
+                    <!--</p>-->
+
+                    <!--<div class="list-item-summary"><p>DEVONagent Pro为网络传导性研究提供了一整套完整的工具。内置强大的搜索功能，能够保存和重复执行操作，并且拥有超过130个插件</p>
+</div>-->
+
+                    <!--<p>-->
+                        <!--<span class="list-item-type"><a href="http://xclient.info/s/c/application/">应用软件</a></span>-->
+                        <!--<span class="list-item-date">2017-08-04</span>-->
+                    <!--</p>-->
+                <!--</div>-->
+
+                <!--<a href="http://xclient.info/s/devonagent-pro.html" class="list-item-download" target="_blank">下载</a>-->
+            <!--</article>-->
+                <ul class="post_list">
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/pdf-expert-for-mac.html" title="PDF Expert 2.2.9 极致的 PDF 阅读标注工作体验">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/a9f8aca0-3d5a-3992-c151-382d666e606d.png" alt="PDF Expert 2.2.9 极致的 PDF 阅读标注工作体验">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>36012</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.09.05</span>
+                                </div>
+                                <div class="info">
+                                    <h3>PDF Expert 2.2.9 极致的 PDF 阅读标注工作体验</h3>
+                                   <p>DF Expert 是一个 PDF 阅读器，无论是打开一个邮件附件，还是 6000 页的报告 ，PDF Expert for Mac的打开速度都比同类快上不少，平滑流畅的滚动效果，标签页设计，也大大提高了工作效率。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/vuescan.html" title="VueScan 9.5.84 扫描仪万能驱动">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/12/f588128f-7555-f738-e57a-3bafbf7e4097.png" alt="VueScan 9.5.84 扫描仪万能驱动">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>2709</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.09.04</span>
+                                </div>
+                                <div class="info">
+                                    <h3>VueScan 9.5.84 扫描仪万能驱动</h3>
+                                   <p>VueScan 是一款万能扫描驱动程序，支持多达2000多种新旧的扫描仪，目前已经成为最知名和最好用的万能驱动了，并且扫描效果要比使用很多原厂驱动好，总之，如果你正在找一款Mac上的扫描仪驱动，首选VueScan。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/xee3.html" title="Xee 3.5.3 优秀的图片浏览工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/6053178e-7365-7887-b16d-1b3a9bcf6a0b.png" alt="Xee 3.5.3 优秀的图片浏览工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>5837</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.09.04</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Xee 3.5.3 优秀的图片浏览工具</h3>
+                                   <p>Xee 3 一款Mac上优秀图片浏览软件，Xee能够解决Mac系统内置的图片预览程序的图片切换问题，如上一张、下一张功能，支持几乎所有常见的图片格式，还支持对图片进行简单的编辑，这是一款在Mac下非常值得拥有的看图软件。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/design/">图形设计</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/merlin-project.html" title="Merlin Project 3.1.4 项目管理工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/08/1f313480-de1e-ae1f-e230-bec70bc0fe0e.png" alt="Merlin Project 3.1.4 项目管理工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>295</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.31</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Merlin Project 3.1.4 项目管理工具</h3>
+                                   <p>Merlin Project为您提供了规划和实施项目，只需点击几下鼠标就能轻松完成。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/ia-writer.html" title="iA Writer 4.0.4 简单好用的 markdown 写作工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/e4cf6e9e-d9fc-fab4-e77a-7d9b479be864.png" alt="iA Writer 4.0.4 简单好用的 markdown 写作工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>3804</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.30</span>
+                                </div>
+                                <div class="info">
+                                    <h3>iA Writer 4.0.4 简单好用的 markdown 写作工具</h3>
+                                   <p>iA Writer 提供了独特的 <strong>无干扰模式</strong>，该模式隐藏了一切可能对写作造成干扰的界面元素，只留下一张白纸、一个键盘。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/diagrammix.html" title="Diagrammix 2.13 思维导图、流程图、UML图绘制工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/08/fa9f36d3-a1d8-dfa1-4b97-38ac6f47fe65.png" alt="Diagrammix 2.13 思维导图、流程图、UML图绘制工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>429</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.30</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Diagrammix 2.13 思维导图、流程图、UML图绘制工具</h3>
+                                   <p>Diagrammix 是一款Mac 上的思维导图、流程图、UML图绘制工具，软件使用上非常的简单，提供了大量的形状</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/solid-converter.html" title="Solid Converter 2.1.7640 PDF转Word">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/08/cb2fc341-63d0-c45e-bd75-4bac16a11630.png" alt="Solid Converter 2.1.7640 PDF转Word">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>521</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.25</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Solid Converter 2.1.7640 PDF转Word</h3>
+                                   <p>Solid Converter是一款Mac OS平台上功能强大的PDF格式转换软件。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/ibookcopy.html" title="iBookCopy 2.1.3 IBook的DRM信息清除工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/11/674c73b5-d5dc-79d6-89b1-3677777d258c.png" alt="iBookCopy 2.1.3 IBook的DRM信息清除工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>424</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.24</span>
+                                </div>
+                                <div class="info">
+                                    <h3>iBookCopy 2.1.3 IBook的DRM信息清除工具</h3>
+                                   <p>iBookCopy是一款Mac平台的iBook的DRM信息清除工具，可以帮助我们清除iBook电子书里面的DRM信息信息，并且可以实现零损失的转换。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/mweb.html" title="MWeb 2.2.4 专业的Markdown写作、记笔记、静态博客生成软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/07/cc179dc2-5efe-5188-cc9f-bbc1cff6f7c5.png" alt="MWeb 2.2.4 专业的Markdown写作、记笔记、静态博客生成软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>17678</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.23</span>
+                                </div>
+                                <div class="info">
+                                    <h3>MWeb 2.2.4 专业的Markdown写作、记笔记、静态博客生成软件</h3>
+                                   <p>MWeb 是一站式的 Markdown 编辑和静态网站生成解决方案</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/letterspace.html" title="Letterspace 1.7.2 小清新笔记本">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/08/3cef50f8-d67b-a3b4-a585-addd76414344.png" alt="Letterspace 1.7.2 小清新笔记本">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>267</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.23</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Letterspace 1.7.2 小清新笔记本</h3>
+                                   <p>Letterspace 是一款由 Sittipon Simasanti 独立开发的 Markdown 编辑工具，在 Mac，iOS 端都有客户端支持</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/drawnstrips.html" title="DrawnStrips 3.1 漫画阅读器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/08/1bc99c2c-7a3d-de99-a1b6-679f984e240d.png" alt="DrawnStrips 3.1 漫画阅读器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>189</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.23</span>
+                                </div>
+                                <div class="info">
+                                    <h3>DrawnStrips 3.1 漫画阅读器</h3>
+                                   <p>DrawnStrips是一款功能强大的mac平台上的漫画阅读器，支持最新的mac pro的Retina显示屏</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/taskpaper.html" title="TaskPaper 3.7.4 纯文本GTD工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/02/7243e6ac-936d-c1f9-4d75-bbeed0c37672.png" alt="TaskPaper 3.7.4 纯文本GTD工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>416</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.23</span>
+                                </div>
+                                <div class="info">
+                                    <h3>TaskPaper 3.7.4 纯文本GTD工具</h3>
+                                   <p>TaskPaper是一个令人惊讶的纯文本待办事项工具</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/commander-one-pro.html" title="Commander One PRO 1.7.3 － FTP/SFTP client, RAR, 7zip and Tar extractor">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/0604dcaf-306e-4cdd-d295-cb34be457f46.png" alt="Commander One PRO 1.7.3 － FTP/SFTP client, RAR, 7zip and Tar extractor">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>4398</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.21</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Commander One PRO 1.7.3 － FTP/SFTP client, RAR, 7zip and Tar extractor</h3>
+                                   <p>Commander One PRO 是Mac OS X上一款强大的双栏Finder资源管理器，比Finder的功能更强，支持双栏窗口显示、显示隐藏文件、正则表达式、ZIP压缩、FTP连接、主题切换等等高级功能~</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/system/">系统工具</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/leaf.html" title="Leaf 5.1.2 RSS 新闻阅读器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/06/abb7b3e1-008c-5a0e-8c40-bbf2af305253.png" alt="Leaf 5.1.2 RSS 新闻阅读器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>3247</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.18</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Leaf 5.1.2 RSS 新闻阅读器</h3>
+                                   <p>MAC上最棒的新闻阅读器之一。被 Apple 评为“最佳新应用”。体积轻量，界面简洁，可以换肤所以有夜间模式！！使RSS订阅有了美丽而舒适的体验。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/clearview.html" title="Clearview 2.0.3 电子阅读器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/12/54d94b43-c861-88fb-e78c-6349f9560f98.png" alt="Clearview 2.0.3 电子阅读器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>7522</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.17</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Clearview 2.0.3 电子阅读器</h3>
+                                   <p>Clearview是一款简洁易用的电子书阅读器，标签页浏览外观，直观好用的图书管理功能，支持 PDF, Epub, MOBI, CHM 四种流行的电子书格式，可以方便地添加注解，插入书签，及迅速的搜索查找。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/simplemind.html" title="SimpleMind 1.18.0 小巧的思维导图工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/04/1e40fb5e-95a6-b92d-d171-75ea5cffbe23.png" alt="SimpleMind 1.18.0 小巧的思维导图工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>2424</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.14</span>
+                                </div>
+                                <div class="info">
+                                    <h3>SimpleMind 1.18.0 小巧的思维导图工具</h3>
+                                   <p>SimpleMind是Mac OS X上一款思维导图工具，这款工具非常小巧，完全可以取代笨重的MindManager，对Mac开发者来说称得上是一大福音了。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/tripmode.html" title="TripMode 2.0.3 移动热点流量管家，商旅出差必备">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/02/1a566b15-5f2b-5ef3-1b38-75f9e4d27971.png" alt="TripMode 2.0.3 移动热点流量管家，商旅出差必备">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>1987</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.11</span>
+                                </div>
+                                <div class="info">
+                                    <h3>TripMode 2.0.3 移动热点流量管家，商旅出差必备</h3>
+                                   <p>TripMode 是 Mac OS X 上的手机热点流量控制器，每当你的笔记本接入手机热点后，都会自动开启流量管控状态。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/money-pro.html" title="Money Pro 1.8.6 可同步账单、预算和账户">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/02/2c152564-7672-7793-fb62-5064c0756450.png" alt="Money Pro 1.8.6 可同步账单、预算和账户">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>5344</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.07</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Money Pro 1.8.6 可同步账单、预算和账户</h3>
+                                   <p>Money Pro是Mac上的一款很好用的理财软件，目前全世界共有两百多万客户使用它来管理个人财务。它是一款真正的多合一应用程序，可以为你规划账单、安排预算、跟踪交易，并且所有操作均可同步执行。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/industry/">行业软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/toolbox-for-keynote.html" title="Toolbox for Keynote 2.2.4 幻灯片主题工具箱">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/08/cad46ad0-5c2c-1abb-37ca-dfa1abfa0fd4.png" alt="Toolbox for Keynote 2.2.4 幻灯片主题工具箱">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>413</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.07</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Toolbox for Keynote 2.2.4 幻灯片主题工具箱</h3>
+                                   <p>Toolbox for Keynote是一款苹果主题工具箱软件，这款软件包含链接到的主题和插画的元素，最终收集苹果的主题演讲。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/devonagent-pro.html" title="DEVONagent Pro 3.9.7 人工智能浏览器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/08/a5a4a166-20ce-4a1a-faa4-d7a46f349c21.png" alt="DEVONagent Pro 3.9.7 人工智能浏览器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>337</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.08.04</span>
+                                </div>
+                                <div class="info">
+                                    <h3>DEVONagent Pro 3.9.7 人工智能浏览器</h3>
+                                   <p>DEVONagent Pro为网络传导性研究提供了一整套完整的工具。内置强大的搜索功能，能够保存和重复执行操作，并且拥有超过130个插件</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                </ul>
+
+                <ol class="page-navigator"><li class="prev"><a href="http://xclient.info/s/c/application/1/">&laquo; 前一页</a></li><li><a href="http://xclient.info/s/c/application/1/">1</a></li><li class="current"><a href="http://xclient.info/s/c/application/2/">2</a></li><li><a href="http://xclient.info/s/c/application/3/">3</a></li><li><a href="http://xclient.info/s/c/application/4/">4</a></li><li><a href="http://xclient.info/s/c/application/5/">5</a></li><li><span>...</span></li><li><a href="http://xclient.info/s/c/application/11/">11</a></li><li class="next"><a href="http://xclient.info/s/c/application/3/">后一页 &raquo;</a></li></ol>
+            
+            </div><!-- end #main -->
+
+
+        </div><!-- end .row -->
+    </div>
+</div><!-- end #body -->
+
+
+<!-- ad footer -->
+
+<div class="container">
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 底部通栏广告 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="1646842957"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+
+        </script>
+    </div> 
+</div>
+<footer id="footer" role="contentinfo">
+    <div class="container">
+        <p>
+            声明：本站并不以盈利为目的，所有软件均来源于网络，旨在推广苹果电脑在国内的应用，并为大家带来更好的下载体验。
+        </p>
+        <p>
+            如本站的内容对您的权利造成了影响，
+            请发邮件至service@xclient.info,
+            我们会在第一时间将涉及版权的内容进行删除。
+        </p>
+        Copyright &copy; 2017 <a href="http://xclient.info/">精品MAC应用分享</a>. All rights reserved.
+    </div>
+</footer><!-- end #footer -->
+
+
+<script type="text/javascript" charset="utf-8" src="//cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
+
+<script type="text/javascript" src="http://img.xclient.info/js/adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js"></script>
+<script>
+</script>
+<script>
+var lim = {
+            ID : 'application',
+            AT : 'category_soft', //archive type
+            MT : 'home', //main type
+            icon : 'http://img.xclient.info/img/not-found-1-1.svg',
+        cover : 'http://img.xclient.info/img/default_cover.png',
+        dl: 'http://xclient.info/action/service?do=download'
+
+};
+
+//set default app icon
+$('.lim-icon').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.icon);
+});
+//set default post cover
+$('.lim-cover').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.cover);
+});
+
+
+
+//types
+switch(lim.AT){
+    case 'index':
+        lim.MT = 'home';
+        break;
+    case 'page':
+        switch(lim.ID){
+            case 'wishlist':
+            case 'feedback':
+                lim.MT = lim.ID;
+                break;
+        }
+        break;
+
+    case 'post':
+        lim.MT = 'post';
+        break;
+
+    case 'soft':
+        lim.MT = 'soft';
+        break;
+    case 'search':
+        lim.MT = 'home';
+        break;
+
+    default:
+        if (lim.AT.substring(lim.AT.length-5, lim.AT.length)=='_soft'){
+            lim.MT = 'soft';
+        } else {
+            lim.MT = 'post';
+        }
+        break;
+}
+
+$('.nav-'+lim.MT).addClass('current');
+
+//video
+
+window.onload=function(){
+
+    if (typeof(killads)=='undefined'){
+        $("#abptip").addClass("show");
+    }
+}
+
+
+
+
+</script>
+
+<!-- baidu tongji -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?befb95b3cbb10a937d15e5181625c9f2";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</body>
+</html>

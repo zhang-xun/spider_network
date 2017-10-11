@@ -1,0 +1,722 @@
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+<meta name="renderer" content="webkit">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+<title>应用软件 - 精品MAC应用分享</title>
+
+<link rel="shortcut icon" href="http://img.xclient.info/icon/favicon.ico">
+<link rel="stylesheet" href="http://cdn.staticfile.org/normalize/3.0.1/normalize.min.css">
+<!-- <link rel="stylesheet" href="http://img.xclient.info/css/normalize.css"> -->
+
+<link rel="stylesheet" href="http://img.xclient.info/css/grid.css">
+<link rel="stylesheet" href="http://img.xclient.info/css/main.style.20170104.css?v=1">
+
+<link rel="stylesheet" href="http://img.xclient.info/libs/swiper/css/swiper.min.css">
+<link rel="stylesheet" href="http://img.xclient.info/libs/magnific-popup/magnific-popup.css?20160818">
+
+<!--[if lt IE 9]>
+<script src="http://cdn.staticfile.org/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="http://cdn.staticfile.org/respond.js/1.4.2/respond.min.js"></script>
+<![endif]-->
+<!-- <script src="http://img.xclient.info/js/html5shiv.jshtml5.min.js"></script>
+<script src="http://img.xclient.info/js/respond.jshtml5.min.js"></script> -->
+
+<meta name="keywords" itemprop="keywords" content="应用软件" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://xclient.info/feed/s/c/application/" />
+<script>(function(){var d=document,l=location,s=String, Kef32a55af4310acfa6c3041934ac804c=s.fromCharCode(120,99,108,105,101,110,116,46,105,110,102,111);if(d.domain!==Kef32a55af4310acfa6c3041934ac804c){l.href=l.protocol+"//"+Kef32a55af4310acfa6c3041934ac804c;}})()</script></head>
+<body>
+<script>
+(function(d) {
+  d.write('<div class="abptip" id="abptip">我们发现您正在使用 <strong>AdBlock Plus</strong> 或者其他 <strong>ABP</strong> 类软件屏蔽了广告。本站没有任何互动、动画、讨厌的声音或弹出广告，我们不做这些讨厌的类型的广告！请把 <a href="http://xclient.info">xclient.info</a> 加入到你的AdBlock Plus软件白名单，万分感谢！</div>')
+})(document);
+</script>
+
+<!--[if lt IE 8]>
+<div class="browsehappy" role="dialog">当前网页 <strong>不支持</strong> 你正在使用的浏览器. 为了正常的访问, 请 <a href="http://browsehappy.com/">升级你的浏览器</a>.</div>
+<![endif]-->
+<header id="header" class="clearfix">
+
+    <div class="header_main">
+        <div class="container">
+            <div class="row">
+
+                <div class="site-name col-mb-12 col-3">
+                    <a id="logo" href="http://xclient.info/" title="精品MAC应用分享">
+                        <img src="http://img.xclient.info/img/logo.png" alt="精品MAC应用分享" />
+                    </a>
+                    <p class="description">Best Free Apps For Mac</p>
+                </div>
+
+
+                <div class="site-socials col-mb-12 col-9">
+                    <div class="socials">
+
+                        <span class="icon-qq icons">
+                            <span class="pop_qq">
+                                ①—⑤群已满<br> 
+⑥群：595928359                            </span>
+                        </span>
+                        <span class="icon-weibo icons">
+                            <span class="pop_weibo">
+                                <img src="http://img.xclient.info/img/weibo_ico.png" alt="精品MAC应用分享官方微博"/>
+                                <a href="http://weibo.com/u/5707888212/" target="_blank">+ 关注微博</a>
+                            </span>
+                        </span>
+                        <a href="http://xclient.info/feed/" target="_blank" class="icon-rss icons" title="订阅"></a>
+                    </div>
+                    <div class="row">
+                        <div class="col-mb-12 col-7">
+                            <nav id="nav-menu" class="clearfix" role="navigation">
+
+                                <a class="nav-item nav-home" href="http://xclient.info/">首页</a>
+
+                                <a class="nav-item nav-soft" href="http://xclient.info/s/">应用</a>
+
+                                <a class="nav-item nav-post" href="http://xclient.info/a/">文章</a>
+                                <a class="nav-item nav-club" target="_blank" href="http://club.xclient.info">社区</a>
+
+                                <a class="nav-item nav-wishlist" href="http://xclient.info/wishlist">心愿单</a>
+
+                                <a class="nav-item nav-feedback" href="http://xclient.info/feedback">留言</a>
+
+
+                            </nav>
+                        </div>
+                                                <div class="col-mb-12 col-5 head_search">
+                            <form id="search" method="post" action="http://xclient.info/search" role="search">
+                                <label for="s" class="sr-only">搜索关键字</label>
+                                <span class="input_wrap"><input type="text" name="s" class="text" placeholder="输入关键字搜索" /></span>
+                                <input type="hidden" name="t" value="soft" />
+                                <button type="submit" class="submit">搜 索</button>
+                            </form>
+                        </div>
+
+                        
+                    </div>
+
+                </div>
+
+            </div><!-- end .row -->
+        </div>
+    </div>
+
+
+</header><!-- end #header -->
+<div class="notice_tip">
+    <div class="container">
+
+    </div>
+</div>
+
+
+
+
+
+<div id="body">
+    <div class="container">
+        <div class="row">
+            <div class="col-mb-12 col-12" id="main" role="main">
+
+
+            <!-- ad header -->
+            
+<div>
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 页面头尾部 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="2491452150"
+             data-ad-format="auto"></ins>
+        <script>
+        (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</div>
+
+            
+
+                        <!--<article class="list-item list-soft">-->
+
+                <!--<img class="list-item-icon lim-icon" src="http://img.xclient.info/attachment/2016/02/804f6ae3-4ea8-f1c2-39f5-691491681fd9.png" alt="Gestimer 1.1.6 简单方便的提醒创建小工具">-->
+
+                <!--<div class="list-item-meta">-->
+                    <!--<b class="list-item-title">-->
+                        <!--<a href="http://xclient.info/s/gestimer.html" title="Gestimer 1.1.6 简单方便的提醒创建小工具" target="_blank">Gestimer 1.1.6 简单方便的提醒创建小工具</a>-->
+                    <!--</b>-->
+                    <!--<p>-->
+                        <!--<span><b>版本：</b> 1.1.6 </span>-->
+                        <!--<span><b>下载次数：</b> 863</span>-->
+                    <!--</p>-->
+
+                    <!--<div class="list-item-summary"><p>Gestimer 是一款简单方便的提醒创建小工具，提供的事件创建功能更直观，可以快速流畅的创建提醒事项</p>
+</div>-->
+
+                    <!--<p>-->
+                        <!--<span class="list-item-type"><a href="http://xclient.info/s/c/application/">应用软件</a></span>-->
+                        <!--<span class="list-item-date">2016-12-21</span>-->
+                    <!--</p>-->
+                <!--</div>-->
+
+                <!--<a href="http://xclient.info/s/gestimer.html" class="list-item-download" target="_blank">下载</a>-->
+            <!--</article>-->
+                <ul class="post_list">
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/marp.html" title="[免费精品] Marp 0.0.10 用markdown制作ppt">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/02/d92b0d3f-324a-82fd-71c5-8baab06f2d08.png" alt="[免费精品] Marp 0.0.10 用markdown制作ppt">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>704</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.02.07</span>
+                                </div>
+                                <div class="info">
+                                    <h3>[免费精品] Marp 0.0.10 用markdown制作ppt</h3>
+                                   <p>一款用markdown制作ppt的免费小软件</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/free/">免费精品</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/pixave.html" title="Pixave 2.2.0 不仅仅是素材管理">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2015/11/3fd52551-9bf1-3228-2957-46c7182e3af1.png" alt="Pixave 2.2.0 不仅仅是素材管理">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>3146</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.02.07</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Pixave 2.2.0 不仅仅是素材管理</h3>
+                                   <p>Pixave 是一款Mac上优秀的图片素材收集整理工具，能够帮助设计师收集整理所有的图片素材，方便查询和过滤，非常不错！</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/istudiez-pro.html" title="iStudiez Pro 1.4.4 学生课程表软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/05/85fb3bd2-43b2-a312-9ac5-f2caadafa0bf.png" alt="iStudiez Pro 1.4.4 学生课程表软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>1363</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.02.07</span>
+                                </div>
+                                <div class="info">
+                                    <h3>iStudiez Pro 1.4.4 学生课程表软件</h3>
+                                   <p>iStudiez Pro 是一款比较老牌的课程表应用，学生党应该都非常熟悉了，支持 iOS、Mac、PC 平台</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/reeder.html" title="Reeder 3.0.3 将RSS阅读体验发挥到极致">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/01/f8d8063c-b3a1-c533-3dbd-b099f7be0e1f.png" alt="Reeder 3.0.3 将RSS阅读体验发挥到极致">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>6409</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.02.06</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Reeder 3.0.3 将RSS阅读体验发挥到极致</h3>
+                                   <p>一款不能错过的RSS阅读器。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/raindrop.html" title="[免费精品] Raindrop 精美的跨平台书签管理工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/02/4b8403af-edff-4f02-15de-dbdf8a765657.png" alt="[免费精品] Raindrop 精美的跨平台书签管理工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>673</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.02.04</span>
+                                </div>
+                                <div class="info">
+                                    <h3>[免费精品] Raindrop 精美的跨平台书签管理工具</h3>
+                                   <p>Raindrop.io是一款非常棒的书签管理器，横跨Win/Mac两大PC平台，还支持安卓和IOS，可以实现数据同步。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/free/">免费精品</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/macfamilytree.html" title="MacFamilyTree 8.1.3 家谱软件">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/10/d8fdfa33-99ca-f50a-d10c-aa603c85757b.png" alt="MacFamilyTree 8.1.3 家谱软件">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>670</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.20</span>
+                                </div>
+                                <div class="info">
+                                    <h3>MacFamilyTree 8.1.3 家谱软件</h3>
+                                   <p>MacFamilyTree是一款强大的Mac家谱软件，能够帮助你记录、储存、和显示您的家庭信息，打印家族树、列表、卡片、遗传图表。能够让你清晰的了解你的家族人员情况。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/foldingtext.html" title="FoldingText 2.2 一款注重结构的 Markdown 编辑器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/01/ed6e3800-412e-89b8-cad3-62e8da523f6c.png" alt="FoldingText 2.2 一款注重结构的 Markdown 编辑器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>331</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.20</span>
+                                </div>
+                                <div class="info">
+                                    <h3>FoldingText 2.2 一款注重结构的 Markdown 编辑器</h3>
+                                   <p>FoldingText是一款不可多得的轻量级文本编辑器，功能丰富，不但能够肩负写作，Coding等基础任务，还支持任务管理，事务定时/提醒，段落格式化，热键移动文本等功能。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/typinator.html" title="Typinator 7.1 文字快速输入领域悍将">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/07/06d44fea-13b6-8c8b-4274-0aa8d9f7982f.png" alt="Typinator 7.1 文字快速输入领域悍将">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>675</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.19</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Typinator 7.1 文字快速输入领域悍将</h3>
+                                   <p>Typinator是一款适用于Mac的快速输入的工具。设置快速输入的文字替换。如设置 add 为 address或者更长的文字。对于经常要输入重复字符的工作很有帮助。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/instastack.html" title="Instastack 3.5.0 简单实用的instagram客户端">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/12/61c6af8c-3b90-388d-7651-1f62eaa49d13.png" alt="Instastack 3.5.0 简单实用的instagram客户端">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>853</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.19</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Instastack 3.5.0 简单实用的instagram客户端</h3>
+                                   <p>Instastack for Instagram最初源自于iOS平台上的移动应用，以一种快速、美妙和有趣的方式将你随时抓拍下的图片分享彼此。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/eudic.html" title="欧路词典 3.5.4 专为MAC而生的词典">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/01/842c3ff2-e30c-7466-f374-6c55fba01193.png" alt="欧路词典 3.5.4 专为MAC而生的词典">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>7383</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.19</span>
+                                </div>
+                                <div class="info">
+                                    <h3>欧路词典 3.5.4 专为MAC而生的词典</h3>
+                                   <p>欧路词典是一款Mac上的非常优秀的词典工具，支持屏幕取词、划词搜索、生词本、翻译朗读、词库扩展等等功能</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/ipic.html" title="[免费精品] iPic 免费极好用的图床工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/01/23741472-82e3-645c-fa58-6d9d23af848f.png" alt="[免费精品] iPic 免费极好用的图床工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>684</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.18</span>
+                                </div>
+                                <div class="info">
+                                    <h3>[免费精品] iPic 免费极好用的图床工具</h3>
+                                   <p>图床神器 iPic 可自动上传图片、保存 Markdown 链接，给你前所未有的插图体验。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/free/">免费精品</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/frhelper.html" title="法语助手 3.5.4 法语词典">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/01/046495a5-1b60-06b0-b567-e6d3ce66bbe8.png" alt="法语助手 3.5.4 法语词典">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>251</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.17</span>
+                                </div>
+                                <div class="info">
+                                    <h3>法语助手 3.5.4 法语词典</h3>
+                                   <p>《法语助手》是一套针对中国法语学习者特别设计的教育软件。软件不仅是一款法汉词典软件，而是完整包含了法汉、汉法、法法、法英词典、动词变位查询、法语发音等功能，并附有法语智能输入器、生词本等实用软件，是法语学习者必不可少的辅助工具。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/calcbot.html" title="Calcbot 1.0.6 为你带来极致体验的计算器">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/09/75426af2-7fce-c3e7-2962-2dece7cd033a.png" alt="Calcbot 1.0.6 为你带来极致体验的计算器">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>718</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.16</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Calcbot 1.0.6 为你带来极致体验的计算器</h3>
+                                   <p>Calcbot是知名开发商 Tapbots 的一款「计算器&amp;单位换算器」应用，相比针对性更强的 PCalc 计算器，Calcbot 的性价比更高，更适合普通用户。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/google-earth.html" title="[免费精品] Google Earth 谷歌地球">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/01/1806395a-81a4-ec12-d7c4-4d135be643d3.png" alt="[免费精品] Google Earth 谷歌地球">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>2752</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.10</span>
+                                </div>
+                                <div class="info">
+                                    <h3>[免费精品] Google Earth 谷歌地球</h3>
+                                   <p>谷歌地球 Google Earth 采用的3D地图定位技术能够把Google Map上的最新卫星图片推向一个新水平。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a> <a href="http://xclient.info/s/c/free/">免费精品</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/rottenwood.html" title="Rottenwood 1.1 电影回忆录">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2017/01/a72fbbb9-9c3f-5189-2987-5603dd3549f3.png" alt="Rottenwood 1.1 电影回忆录">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>198</span>
+                                    <span class="item date"><i class="icon-date"></i>2017.01.09</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Rottenwood 1.1 电影回忆录</h3>
+                                   <p>Rottenwood 是一款属于自己的电影影评工具,每天都有新的电影上映,我们可以根据自己看的电影记录下自己的观影历史,而且还能记录下观影感受.</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/later.html" title="Later 1.0.3 提醒工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/11/66b92b9f-1a03-4439-f4c2-c9d726ed34c6.png" alt="Later 1.0.3 提醒工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>422</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.12.30</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Later 1.0.3 提醒工具</h3>
+                                   <p>Later 可以帮助我们在mac电脑上快速方便地设定提醒事项，并按设定内容提醒我们</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/byword.html" title="Byword 2.8 帮助你把所有的精力全部放在写作上">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/01/99eefd93-fb55-b5af-2373-4b04215d4d44.png" alt="Byword 2.8 帮助你把所有的精力全部放在写作上">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>1894</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.12.28</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Byword 2.8 帮助你把所有的精力全部放在写作上</h3>
+                                   <p>如果你觉得现在文字编辑软件太多，但你一定要用下Byword，它可以帮助你把所有的精力全部放在写作上。</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/vipor-plus-crm.html" title="Vipor Plus CRM 2.0.4 客户关系管理">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/12/3e5d1403-98c3-b28c-d6b2-dfe8410922d3.png" alt="Vipor Plus CRM 2.0.4 客户关系管理">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>293</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.12.28</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Vipor Plus CRM 2.0.4 客户关系管理</h3>
+                                   <p>Vipor Plus CRM 是一款 Mac 下的客户关系系统，它将日历、联系人以及待办事项紧密地联系在一起，对工作进行更好的管理，提高工作效率</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/deliveries.html" title="Deliveries 3.0.1 快递跟踪">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/12/f14a1897-f4de-c9c8-ad1c-9e4dbe7e242f.png" alt="Deliveries 3.0.1 快递跟踪">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>211</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.12.27</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Deliveries 3.0.1 快递跟踪</h3>
+                                   <p>Deliveries 是一款帮助用户查看和跟踪自己快递的软件</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                    <li>
+                        <div class="main">
+                            <a href="http://xclient.info/s/gestimer.html" title="Gestimer 1.1.6 简单方便的提醒创建小工具">
+                                <img class="lim-icon" src="http://img.xclient.info/attachment/2016/02/804f6ae3-4ea8-f1c2-39f5-691491681fd9.png" alt="Gestimer 1.1.6 简单方便的提醒创建小工具">
+                                <div class="status_bar">
+                                    <span class="item download"><i class="icon-download"></i>863</span>
+                                    <span class="item date"><i class="icon-date"></i>2016.12.21</span>
+                                </div>
+                                <div class="info">
+                                    <h3>Gestimer 1.1.6 简单方便的提醒创建小工具</h3>
+                                   <p>Gestimer 是一款简单方便的提醒创建小工具，提供的事件创建功能更直观，可以快速流畅的创建提醒事项</p>
+                                </div>
+                            </a>
+                            <div class="cates">
+                                <a href="http://xclient.info/s/c/application/">应用软件</a>                            </div>
+                        </div>
+                    </li>
+
+
+
+
+                                </ul>
+
+                <ol class="page-navigator"><li class="prev"><a href="http://xclient.info/s/c/application/5/">&laquo; 前一页</a></li><li><a href="http://xclient.info/s/c/application/1/">1</a></li><li><span>...</span></li><li><a href="http://xclient.info/s/c/application/3/">3</a></li><li><a href="http://xclient.info/s/c/application/4/">4</a></li><li><a href="http://xclient.info/s/c/application/5/">5</a></li><li class="current"><a href="http://xclient.info/s/c/application/6/">6</a></li><li><a href="http://xclient.info/s/c/application/7/">7</a></li><li><a href="http://xclient.info/s/c/application/8/">8</a></li><li><a href="http://xclient.info/s/c/application/9/">9</a></li><li><span>...</span></li><li><a href="http://xclient.info/s/c/application/11/">11</a></li><li class="next"><a href="http://xclient.info/s/c/application/7/">后一页 &raquo;</a></li></ol>
+            
+            </div><!-- end #main -->
+
+
+        </div><!-- end .row -->
+    </div>
+</div><!-- end #body -->
+
+
+<!-- ad footer -->
+
+<div class="container">
+    <div class="lim-ad">
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- 底部通栏广告 -->
+        <ins class="adsbygoogle"
+             style="display:block"
+             data-ad-client="ca-pub-1293127422149386"
+             data-ad-slot="1646842957"
+             data-ad-format="auto"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+
+        </script>
+    </div> 
+</div>
+<footer id="footer" role="contentinfo">
+    <div class="container">
+        <p>
+            声明：本站并不以盈利为目的，所有软件均来源于网络，旨在推广苹果电脑在国内的应用，并为大家带来更好的下载体验。
+        </p>
+        <p>
+            如本站的内容对您的权利造成了影响，
+            请发邮件至service@xclient.info,
+            我们会在第一时间将涉及版权的内容进行删除。
+        </p>
+        Copyright &copy; 2017 <a href="http://xclient.info/">精品MAC应用分享</a>. All rights reserved.
+    </div>
+</footer><!-- end #footer -->
+
+
+<script type="text/javascript" charset="utf-8" src="//cdn.bootcss.com/jquery/1.11.0/jquery.min.js"></script>
+
+<script type="text/javascript" src="http://img.xclient.info/js/adview_pic_cpc_cpm_cpa_guanggao_gg_ads_300x250.js"></script>
+<script>
+</script>
+<script>
+var lim = {
+            ID : 'application',
+            AT : 'category_soft', //archive type
+            MT : 'home', //main type
+            icon : 'http://img.xclient.info/img/not-found-1-1.svg',
+        cover : 'http://img.xclient.info/img/default_cover.png',
+        dl: 'http://xclient.info/action/service?do=download'
+
+};
+
+//set default app icon
+$('.lim-icon').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.icon);
+});
+//set default post cover
+$('.lim-cover').each(function() {
+    $(this).attr('src', $(this).attr('src') || lim.cover);
+});
+
+
+
+//types
+switch(lim.AT){
+    case 'index':
+        lim.MT = 'home';
+        break;
+    case 'page':
+        switch(lim.ID){
+            case 'wishlist':
+            case 'feedback':
+                lim.MT = lim.ID;
+                break;
+        }
+        break;
+
+    case 'post':
+        lim.MT = 'post';
+        break;
+
+    case 'soft':
+        lim.MT = 'soft';
+        break;
+    case 'search':
+        lim.MT = 'home';
+        break;
+
+    default:
+        if (lim.AT.substring(lim.AT.length-5, lim.AT.length)=='_soft'){
+            lim.MT = 'soft';
+        } else {
+            lim.MT = 'post';
+        }
+        break;
+}
+
+$('.nav-'+lim.MT).addClass('current');
+
+//video
+
+window.onload=function(){
+
+    if (typeof(killads)=='undefined'){
+        $("#abptip").addClass("show");
+    }
+}
+
+
+
+
+</script>
+
+<!-- baidu tongji -->
+<script>
+var _hmt = _hmt || [];
+(function() {
+    var hm = document.createElement("script");
+    hm.src = "//hm.baidu.com/hm.js?befb95b3cbb10a937d15e5181625c9f2";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(hm, s);
+})();
+</script>
+
+
+</body>
+</html>
